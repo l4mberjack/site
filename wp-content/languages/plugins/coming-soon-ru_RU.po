@@ -1,0 +1,6278 @@
+# Translation of Plugins - Website Builder by SeedProd — Theme Builder, Landing Page Builder, Coming Soon Page, Maintenance Mode - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Website Builder by SeedProd — Theme Builder, Landing Page Builder, Coming Soon Page, Maintenance Mode - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-31 16:34:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Website Builder by SeedProd — Theme Builder, Landing Page Builder, Coming Soon Page, Maintenance Mode - Stable (latest release)\n"
+
+#: languages/seedprod-lite.php:4454
+msgid "Number"
+msgstr "Число"
+
+#: languages/seedprod-lite.php:5532
+msgid "Taxonomy"
+msgstr "Таксономия"
+
+#: languages/seedprod-lite.php:5541
+msgid "Navigation"
+msgstr "Навигация"
+
+#: languages/seedprod-lite.php:457
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: languages/seedprod-lite.php:4616
+msgid "Vertical Alignment"
+msgstr "Вертикальное выравнивание"
+
+#: languages/seedprod-lite.php:5793
+msgid "After"
+msgstr "После"
+
+#: languages/seedprod-lite.php:5162
+msgid "Advanced Settings"
+msgstr "Расширенные настройки"
+
+#: languages/seedprod-lite.php:6905
+msgid "View Documentation"
+msgstr "Посмотреть документацию"
+
+#: languages/seedprod-lite.php:6911
+msgid "View All Documentation"
+msgstr "Просмотреть всю документацию"
+
+#: languages/seedprod-lite.php:6283
+msgid "Social Icons"
+msgstr "Значки соцсетей"
+
+#: languages/seedprod-lite.php:5506
+msgid "Grid"
+msgstr "Сетка"
+
+#: languages/seedprod-lite.php:6268
+msgid "%"
+msgstr "%"
+
+#: languages/seedprod-lite.php:5389
+msgid "Slides to Show"
+msgstr "Слайды для показа"
+
+#: languages/seedprod-lite.php:5491
+msgid "Classic"
+msgstr "Классический"
+
+#: languages/seedprod-lite.php:5509
+msgid "Carousel"
+msgstr "Карусель"
+
+#: languages/seedprod-lite.php:5562
+msgid "Content Area"
+msgstr "Зона контента"
+
+#: languages/seedprod-lite.php:4523
+msgid "AND"
+msgstr "И"
+
+#: languages/seedprod-lite.php:5589
+msgid "Enter Description"
+msgstr "Введите описание"
+
+#: languages/seedprod-lite.php:4520
+msgid "OR"
+msgstr "ИЛИ"
+
+#: languages/seedprod-lite.php:4677
+msgid "Width (%)"
+msgstr "Ширина (%)"
+
+#: languages/seedprod-lite.php:5132
+msgid "All emails captured can be seen on the <a href=\"admin.php?page=seedprod_lite#/subscribers/0\" class=\"sp-text-primary\">Subscribers Page</a>. Click the <strong>Connect</strong> tab on the top menu to send your emails to the email service provider of your choice."
+msgstr "Все полученные адреса эл. почты можно посмотреть на <a href=\"admin.php?page=seedprod_lite#/subscribers/0\" class=\"sp-text-primary\">странице «Подписчики»</a>. Откройте вкладку <strong>«Подключение»</strong> в меню сверху, чтобы отправить письма выбранному поставщику услуг эл. почты."
+
+#: languages/seedprod-lite.php:5135
+msgid "Enable Particle Background"
+msgstr "Включить фон с объектами"
+
+#: languages/seedprod-lite.php:5138
+msgid "Particle Background"
+msgstr "Фон с объектами"
+
+#: languages/seedprod-lite.php:5141
+msgid "Polygon"
+msgstr "Многоугольник"
+
+#: languages/seedprod-lite.php:5144
+msgid "Snow"
+msgstr "Снег"
+
+#: languages/seedprod-lite.php:5147
+msgid "Snowflakes"
+msgstr "Снежинки"
+
+#: languages/seedprod-lite.php:5150
+msgid "Christmas"
+msgstr "Рождество"
+
+#: languages/seedprod-lite.php:5153
+msgid "Halloween"
+msgstr "Хэллоуин"
+
+#: languages/seedprod-lite.php:5156
+msgid "Opacity"
+msgstr "Прозрачность"
+
+#: languages/seedprod-lite.php:5165
+msgid "Number of Particles"
+msgstr "Количество объектов"
+
+#: languages/seedprod-lite.php:5168
+msgid "Particle Size"
+msgstr "Размер объектов"
+
+#: languages/seedprod-lite.php:5171
+msgid "Move Speed"
+msgstr "Скорость движения"
+
+#: languages/seedprod-lite.php:5174
+msgid "Enable Hover Effect"
+msgstr "Включить эффект при наведении"
+
+#: languages/seedprod-lite.php:5177
+msgid "Add custom JSON for the Particle Background. Please follow below steps:"
+msgstr "Добавление собственного JSON для фона с объектами. Следуйте инструкциям ниже:"
+
+#: languages/seedprod-lite.php:5183
+msgid "here"
+msgstr "здесь"
+
+#: languages/seedprod-lite.php:5189
+msgid "- Once a custom style is created, download JSON from \"Download current config (json)\" link"
+msgstr "- После создания собственного стиля загрузите JSON по ссылке «Загрузить текущую конфигурацию (json)»"
+
+#: languages/seedprod-lite.php:5192
+msgid "- Copy JSON code and paste below."
+msgstr "- Скопируйте код JSON и вставьте его ниже."
+
+#: languages/seedprod-lite.php:5195
+msgid "Particle hover effect will not work in the following scenarios:"
+msgstr "Эффект при наведении на объекты не работает в следующих случаях:"
+
+#: languages/seedprod-lite.php:5198
+msgid "- In the builder area."
+msgstr "- В окне конструктора."
+
+#: languages/seedprod-lite.php:5201
+msgid "- Content added in the section occupies the entire space and leaves it inaccessible."
+msgstr "- Если добавленный в раздел контент занимает все пространство, делая его недоступным."
+
+#: languages/seedprod-lite.php:5204
+msgid "Note: Increasing the number of particles can slow down your page."
+msgstr "Обратите внимание: при повышении количества объектов скорость работы страницы может замедлиться."
+
+#: languages/seedprod-lite.php:5571
+msgid "Left Layout Template"
+msgstr "Левосторонний макет"
+
+#: languages/seedprod-lite.php:5574
+msgid "Right Layout Template"
+msgstr "Правосторонний макет"
+
+#: languages/seedprod-lite.php:5577
+msgid "No Image Template"
+msgstr "Без изображения"
+
+#: languages/seedprod-lite.php:5580
+msgid "Price List Items"
+msgstr "Элементы прайс-листа"
+
+#: languages/seedprod-lite.php:5583
+msgid "Overall Alignment"
+msgstr "Общее выравнивание"
+
+#: languages/seedprod-lite.php:5592
+msgid "Actual Price"
+msgstr "Цена без скидки"
+
+#: languages/seedprod-lite.php:5595
+msgid "Offering Discount?"
+msgstr "Предлагаете скидку?"
+
+#: languages/seedprod-lite.php:5601
+msgid "Link Complete Box"
+msgstr "Подключить блок целиком"
+
+#: languages/seedprod-lite.php:5604
+msgid "Price Position"
+msgstr "Положение цены"
+
+#: languages/seedprod-lite.php:5607
+msgid "Below Heading and Description"
+msgstr "Под заголовком и описанием"
+
+#: languages/seedprod-lite.php:5610
+msgid "Right of Heading"
+msgstr "Справа от заголовка"
+
+#: languages/seedprod-lite.php:5613
+msgid "Discount Color"
+msgstr "Цвет скидки"
+
+#: languages/seedprod-lite.php:5617
+msgid "Image Area"
+msgstr "Область изображения"
+
+#: languages/seedprod-lite.php:5621
+msgid "Shape"
+msgstr "Форма"
+
+#: languages/seedprod-lite.php:5673
+msgid "Bottom Button Border Radius"
+msgstr "Радиус границы нижней кнопки"
+
+#: languages/seedprod-lite.php:5787
+msgid "Currency Symbol Position"
+msgstr "Положение символа валюты"
+
+#: languages/seedprod-lite.php:5855
+msgid "Zoom Button"
+msgstr "Кнопка приближения"
+
+#: languages/seedprod-lite.php:6240
+msgid "Payment Setup"
+msgstr "Настройка оплаты"
+
+#: languages/seedprod-lite.php:6246
+msgid "Payment Description"
+msgstr "Описание платежа"
+
+#: languages/seedprod-lite.php:6249
+msgid "Payment Currency"
+msgstr "Валюта"
+
+#: languages/seedprod-lite.php:6252
+msgid "Success URL"
+msgstr "URL подтверждения"
+
+#: languages/seedprod-lite.php:6258
+msgid "Show Designation"
+msgstr "Показывать должность"
+
+#: languages/seedprod-lite.php:6265
+msgid "PX"
+msgstr "PX"
+
+#: languages/seedprod-lite.php:6271
+msgid "Below Name"
+msgstr "Под именем"
+
+#: languages/seedprod-lite.php:6274
+msgid "Below Designation"
+msgstr "Под должностью"
+
+#: languages/seedprod-lite.php:6277
+msgid "Below Description"
+msgstr "Под описанием"
+
+#: languages/seedprod-lite.php:6280
+msgid "Thickness"
+msgstr "Толщина"
+
+#: languages/seedprod-lite.php:6286
+msgid "Designation Color"
+msgstr "Цвет должности"
+
+#: languages/seedprod-lite.php:6289
+msgid "Designation"
+msgstr "Должность"
+
+#: languages/seedprod-lite.php:6292
+msgid "Social Icon Align"
+msgstr "Выравнивание значков соцсетей"
+
+#: languages/seedprod-lite.php:6298
+msgid "Designation Align"
+msgstr "Выравнивание должности"
+
+#: languages/seedprod-lite.php:6331
+msgid "Testimonial to Show"
+msgstr "Отзыв для показа"
+
+#: languages/seedprod-lite.php:6627
+msgid "Column Uploaded successfully."
+msgstr "Отправка столбца завершена."
+
+#: languages/seedprod-lite.php:6630
+msgid "There is no content available to paste. Please try copy row first!"
+msgstr "Нет контента, который можно вставить. Сначала скопируйте строку!"
+
+#: languages/seedprod-lite.php:6633
+msgid "Image uploading will take some time."
+msgstr "Отправка изображения займет некоторое время."
+
+#: languages/seedprod-lite.php:6636
+msgid "Row Uploaded successfully."
+msgstr "Отправка строки завершена."
+
+#: languages/seedprod-lite.php:6639
+msgid "Block Copied."
+msgstr "Блок скопирован."
+
+#: languages/seedprod-lite.php:6642
+msgid "Column Copied."
+msgstr "Столбец скопирован."
+
+#: languages/seedprod-lite.php:6645
+msgid "Row Copied."
+msgstr "Строка скопирована."
+
+#: languages/seedprod-lite.php:6648
+msgid "Section Copied."
+msgstr "Раздел скопирован."
+
+#: languages/seedprod-lite.php:6676
+msgid "There is no content available to paste. Please try copy section first!"
+msgstr "Нет содержимого, которое можно вставить. Сначала скопируйте раздел!"
+
+#: languages/seedprod-lite.php:6679
+msgid "Section Uploaded successfully."
+msgstr "Отправка раздела завершена."
+
+#: languages/seedprod-lite.php:6624
+msgid "Block Uploaded successfully."
+msgstr "Отправка блока завершена."
+
+#: languages/seedprod-lite.php:6902
+msgid "No docs found"
+msgstr "Документы не были найдены"
+
+#: languages/seedprod-lite.php:6908
+msgid "Browse documentation, reference material, and tutorials for SeedProd."
+msgstr "Ознакомьтесь с документацией, а также справочными и обучающими материалами для SeedProd."
+
+#: languages/seedprod-lite.php:6917
+msgid "Submit a ticket and our world class support team will be in touch soon."
+msgstr "Отправьте заявку, и наша служба поддержки мирового уровня скоро свяжется с вами."
+
+#: languages/seedprod-lite.php:6920
+msgid "Submit a Support Ticket"
+msgstr "Отправить заявку в службу поддержки"
+
+#: languages/seedprod-lite.php:6923
+msgid "Upgrade to SeedProd Lite to access our world class customer support"
+msgstr "Перейдите на SeedProd Lite, чтобы получить доступ к нашей поддержке мирового класса"
+
+#: languages/seedprod-lite.php:6926
+msgid "Upgrade to SeedProd Lite"
+msgstr "Перейти на SeedProd Lite"
+
+#: languages/seedprod-lite.php:5186
+msgid " and choose required attributes for particle"
+msgstr " и выберите нужные параметры объектов"
+
+#: languages/seedprod-lite.php:5180
+msgid "- Please visit this link "
+msgstr "- Перейдите по этой ссылке "
+
+#: languages/seedprod-lite.php:5529
+msgid "Bottom Spacing"
+msgstr "Отступ снизу"
+
+#: languages/seedprod-lite.php:5550
+msgid "Dots"
+msgstr "Точки"
+
+#: languages/seedprod-lite.php:5553
+msgid "Image Height"
+msgstr "Высота изображения"
+
+#: languages/seedprod-lite.php:4247
+msgid "Payments Border Radius"
+msgstr "Радиус границы для платежей"
+
+#: languages/seedprod-lite.php:4393
+msgid "If orderby is set to random, pagination will be disabled to prevent subsequent pages from showing already-displayed products."
+msgstr "Если способ сортировки выбран «в случайном порядке», нумерация страниц будет отключена, и на последующих страницах не будут отображаться уже показанные товары."
+
+#: languages/seedprod-lite.php:4463
+msgid "Post Date(Default)"
+msgstr "Дата записи (по умолчанию)"
+
+#: languages/seedprod-lite.php:4476
+msgid "Current Page Color"
+msgstr "Текущий цвет страницы"
+
+#: languages/seedprod-lite.php:4489
+msgid "Relation"
+msgstr "Отношение"
+
+#: languages/seedprod-lite.php:4492
+msgid "- Select Relation -"
+msgstr "- Выберите отношение -"
+
+#: languages/seedprod-lite.php:4526
+msgid "Specify whether the downloads displayed have to be in ALL the categories/tags provided, or just in at least one."
+msgstr "Укажите, должны ли отображаемые загрузки относиться ко ВСЕМ представленным категориям/тегам или хотя бы к одной."
+
+#: languages/seedprod-lite.php:4533
+msgid "Show Full Content"
+msgstr "Показать полный контент"
+
+#: languages/seedprod-lite.php:4564
+msgid "Show Thumbnails"
+msgstr "Показать миниатюры"
+
+#: languages/seedprod-lite.php:4674
+msgid "Height (px)"
+msgstr "Высота (пикс.)"
+
+#: languages/seedprod-lite.php:5266
+msgid "Link to Author"
+msgstr "Ссылка на автора"
+
+#: languages/seedprod-lite.php:5488
+msgid "Skin"
+msgstr "Кожа"
+
+#: languages/seedprod-lite.php:5494
+msgid "Card"
+msgstr "Карта"
+
+#: languages/seedprod-lite.php:5500
+msgid "Badge"
+msgstr "Бейдж"
+
+#: languages/seedprod-lite.php:5503
+msgid "Badge Taxonomy"
+msgstr "Таксономия бейджей"
+
+#: languages/seedprod-lite.php:5512
+msgid "Masonry"
+msgstr "Плитка"
+
+#: languages/seedprod-lite.php:5515
+msgid "Creative"
+msgstr "Креативный"
+
+#: languages/seedprod-lite.php:5518
+msgid "Minimal"
+msgstr "Минимальный"
+
+#: languages/seedprod-lite.php:5521
+msgid "Business News"
+msgstr "Новости бизнеса"
+
+#: languages/seedprod-lite.php:5526
+msgid "Image Position"
+msgstr "Положение изображения"
+
+#: languages/seedprod-lite.php:5538
+msgid "Navigation Position"
+msgstr "Расположение навигации"
+
+#: languages/seedprod-lite.php:5544
+msgid "Arrows and Dots"
+msgstr "Стрелки и точки"
+
+#: languages/seedprod-lite.php:5559
+msgid "Divider Border Color"
+msgstr "Цвет границы разделителя"
+
+#: languages/seedprod-lite.php:5565
+msgid "Content Area Border"
+msgstr "Граница области контента"
+
+#: languages/seedprod-lite.php:5625
+msgid "Rounded"
+msgstr "Скругленная"
+
+#: languages/seedprod-lite.php:5629
+msgid "Circle"
+msgstr "Окружность"
+
+#: languages/seedprod-lite.php:5790
+msgid "Before"
+msgstr "До"
+
+#: languages/seedprod-lite.php:5858
+msgid "Position Right"
+msgstr "Положение справа"
+
+#: languages/seedprod-lite.php:5861
+msgid "Position Top"
+msgstr "Положение сверху"
+
+#: languages/seedprod-lite.php:6243
+msgid "Amount"
+msgstr "Скидка"
+
+#: languages/seedprod-lite.php:6899
+msgid "Ask a question or search the docs..."
+msgstr "Задайте вопрос или найдите нужное в документах..."
+
+#: languages/seedprod-lite.php:6914
+msgid "Get Support"
+msgstr "Получить поддержку"
+
+#: languages/seedprod-lite.php:5497
+msgid "Full Content"
+msgstr "Всё содержимое"
+
+#: languages/seedprod-lite.php:3474
+msgid "Heading 1"
+msgstr "Заголовок 1"
+
+#: languages/seedprod-lite.php:14
+msgid "3"
+msgstr "3"
+
+#: languages/seedprod-lite.php:18
+msgid "4"
+msgstr "4"
+
+#: languages/seedprod-lite.php:26
+msgid "6"
+msgstr "6"
+
+#: languages/seedprod-lite.php:6
+msgid "1"
+msgstr "1"
+
+#: languages/seedprod-lite.php:10
+msgid "2"
+msgstr "2"
+
+#: languages/seedprod-lite.php:42
+msgid "10"
+msgstr "10"
+
+#: languages/seedprod-lite.php:3031
+msgid "Orientation"
+msgstr "Ориентация"
+
+#: languages/seedprod-lite.php:2525
+msgid "Warning"
+msgstr "Предупреждение"
+
+#: languages/seedprod-lite.php:3477
+msgid "Heading 2"
+msgstr "Заголовок 2"
+
+#: languages/seedprod-lite.php:22
+msgid "5"
+msgstr "5"
+
+#: languages/seedprod-lite.php:30
+msgid "7"
+msgstr "7"
+
+#: languages/seedprod-lite.php:34
+msgid "8"
+msgstr "8"
+
+#: languages/seedprod-lite.php:38
+msgid "9"
+msgstr "9"
+
+#: languages/seedprod-lite.php:2733
+msgid "Bounce"
+msgstr "Отскок"
+
+#: languages/seedprod-lite.php:2618
+msgid "Direction"
+msgstr "Направление"
+
+#: languages/seedprod-lite.php:2518
+msgid "Info"
+msgstr "Информация"
+
+#: languages/seedprod-lite.php:3672
+msgid "Space"
+msgstr "Пробел"
+
+#: languages/seedprod-lite.php:2555
+msgid "Style 1"
+msgstr "Стиль 1"
+
+#: languages/seedprod-lite.php:2558
+msgid "Style 2"
+msgstr "Стиль 2"
+
+#: languages/seedprod-lite.php:2561
+msgid "Style 3"
+msgstr "Стиль 3"
+
+#: languages/seedprod-lite.php:2564
+msgid "Style 4"
+msgstr "Стиль 4"
+
+#: languages/seedprod-lite.php:623
+msgid "Google Places API Key"
+msgstr "Ключ API Google Places"
+
+#: languages/seedprod-lite.php:626
+msgid "Yelp API Key"
+msgstr "Ключ API Yelp"
+
+#: languages/seedprod-lite.php:2420
+msgid "Description Align"
+msgstr "Выравнивание описания"
+
+#: languages/seedprod-lite.php:2428
+msgid "Description Font Size"
+msgstr "Размер шрифта описания"
+
+#: languages/seedprod-lite.php:2479
+msgid "Title Background"
+msgstr "Фон заголовка"
+
+#: languages/seedprod-lite.php:2482
+msgid "Dismiss Color"
+msgstr "Скрыть цвет"
+
+#: languages/seedprod-lite.php:2528
+msgid "Danger"
+msgstr "Опасность"
+
+#: languages/seedprod-lite.php:2531
+msgid "Dismiss Button"
+msgstr "Скрыть кнопку"
+
+#: languages/seedprod-lite.php:2588
+msgid "Animation Effects"
+msgstr "Эффекты анимации"
+
+#: languages/seedprod-lite.php:2591
+msgid "Scrolling Effect"
+msgstr "Эффект прокрутки"
+
+#: languages/seedprod-lite.php:2594
+msgid "Mouse Effect"
+msgstr "Эффект мыши"
+
+#: languages/seedprod-lite.php:2597
+msgid "Vertical Scroll"
+msgstr "Вертикальная прокрутка"
+
+#: languages/seedprod-lite.php:2600
+msgid "Speed"
+msgstr "Скорость"
+
+#: languages/seedprod-lite.php:2603
+msgid "Viewport"
+msgstr "Область просмотра"
+
+#: languages/seedprod-lite.php:2606
+msgid "Viewport Top %"
+msgstr "Область просмотра сверху, %"
+
+#: languages/seedprod-lite.php:2612
+msgid "Down"
+msgstr "Вниз"
+
+#: languages/seedprod-lite.php:2615
+msgid "Horizontal Scroll"
+msgstr "Горизонтальная прокрутка"
+
+#: languages/seedprod-lite.php:2627
+msgid "Transparency"
+msgstr "Прозрачность"
+
+#: languages/seedprod-lite.php:2630
+msgid "Fade Out"
+msgstr "Затемнение"
+
+#: languages/seedprod-lite.php:2652
+msgid "Scale Up"
+msgstr "Увеличение"
+
+#: languages/seedprod-lite.php:2655
+msgid "Scale Down"
+msgstr "Уменьшение"
+
+#: languages/seedprod-lite.php:2658
+msgid "Mouse Track"
+msgstr "След мыши"
+
+#: languages/seedprod-lite.php:2661
+msgid "Opposite"
+msgstr "Противоположно"
+
+#: languages/seedprod-lite.php:2667
+msgid "3D Tilt"
+msgstr "3D-наклон"
+
+#: languages/seedprod-lite.php:2670
+msgid "Entrance Animation"
+msgstr "Анимация появления"
+
+#: languages/seedprod-lite.php:2673
+msgid "Select Animation"
+msgstr "Выбрать анимацию"
+
+#: languages/seedprod-lite.php:2676
+msgid "Fading"
+msgstr "Проявление"
+
+#: languages/seedprod-lite.php:2679
+msgid "Fade In"
+msgstr "Проявление"
+
+#: languages/seedprod-lite.php:2682
+msgid "Fade In Down"
+msgstr "Проявление вниз"
+
+#: languages/seedprod-lite.php:2685
+msgid "Fade In Left"
+msgstr "Проявление влево"
+
+#: languages/seedprod-lite.php:2688
+msgid "Fade In Right"
+msgstr "Проявление вправо"
+
+#: languages/seedprod-lite.php:2691
+msgid "Fade In Up"
+msgstr "Проявление вверх"
+
+#: languages/seedprod-lite.php:2700
+msgid "Zoom In Down"
+msgstr "Приближение вниз"
+
+#: languages/seedprod-lite.php:2703
+msgid "Zoom In Left"
+msgstr "Приближение влево"
+
+#: languages/seedprod-lite.php:2706
+msgid "Zoom In Right"
+msgstr "Приближение вправо"
+
+#: languages/seedprod-lite.php:2709
+msgid "Zoom In Up"
+msgstr "Приближение вверх"
+
+#: languages/seedprod-lite.php:2712
+msgid "Rotating"
+msgstr "Поворот"
+
+#: languages/seedprod-lite.php:2715
+msgid "Rotate In"
+msgstr "Поворот"
+
+#: languages/seedprod-lite.php:2718
+msgid "Rotate In Down Left"
+msgstr "Поворот вниз влево"
+
+#: languages/seedprod-lite.php:2721
+msgid "Rotate In Down Right"
+msgstr "Поворот вниз вправо"
+
+#: languages/seedprod-lite.php:2724
+msgid "Rotate In Up Left"
+msgstr "Поворот вверх влево"
+
+#: languages/seedprod-lite.php:2727
+msgid "Rotate In Up Right"
+msgstr "Поворот вверх вправо"
+
+#: languages/seedprod-lite.php:2730
+msgid "Attention Seekers"
+msgstr "Привлечение внимания"
+
+#: languages/seedprod-lite.php:2736
+msgid "Flash"
+msgstr "Вспышка"
+
+#: languages/seedprod-lite.php:2739
+msgid "Pulse"
+msgstr "Пульс"
+
+#: languages/seedprod-lite.php:2742
+msgid "Rubber Band"
+msgstr "Резинка"
+
+#: languages/seedprod-lite.php:2745
+msgid "Shake X"
+msgstr "Встряска по X"
+
+#: languages/seedprod-lite.php:2748
+msgid "Shake Y"
+msgstr "Встряска по Y"
+
+#: languages/seedprod-lite.php:2751
+msgid "Head Shake"
+msgstr "Поворот головы"
+
+#: languages/seedprod-lite.php:2754
+msgid "Swing"
+msgstr "Взмах"
+
+#: languages/seedprod-lite.php:2757
+msgid "Tada"
+msgstr "Та-дам"
+
+#: languages/seedprod-lite.php:2760
+msgid "Wobble"
+msgstr "Дрожь"
+
+#: languages/seedprod-lite.php:2763
+msgid "Jello"
+msgstr "Желе"
+
+#: languages/seedprod-lite.php:2766
+msgid "Heart Beat"
+msgstr "Биение сердца"
+
+#: languages/seedprod-lite.php:2769
+msgid "Back In Down"
+msgstr "Возвращение вниз"
+
+#: languages/seedprod-lite.php:2772
+msgid "Back In Left"
+msgstr "Возвращение влево"
+
+#: languages/seedprod-lite.php:2775
+msgid "Back In Right"
+msgstr "Возвращение вправо"
+
+#: languages/seedprod-lite.php:2778
+msgid "Back In Up"
+msgstr "Возвращение вверх"
+
+#: languages/seedprod-lite.php:2781
+msgid "Bounce In Down"
+msgstr "Отскок вниз"
+
+#: languages/seedprod-lite.php:2784
+msgid "Bounce In Left"
+msgstr "Отскок влево"
+
+#: languages/seedprod-lite.php:2787
+msgid "Bounce In Right"
+msgstr "Отскок вправо"
+
+#: languages/seedprod-lite.php:2790
+msgid "Bounce In Up"
+msgstr "Отскок вверх"
+
+#: languages/seedprod-lite.php:2793
+msgid "Fade In Down Big"
+msgstr "Проявление вниз (большое)"
+
+#: languages/seedprod-lite.php:2796
+msgid "Fade In Left Big"
+msgstr "Проявление влево (большое)"
+
+#: languages/seedprod-lite.php:2799
+msgid "Fade In Right Big"
+msgstr "Проявление вправо (большое)"
+
+#: languages/seedprod-lite.php:2802
+msgid "Fade In Up Big"
+msgstr "Проявление вверх (большое)"
+
+#: languages/seedprod-lite.php:2805
+msgid "Fade In Top Left"
+msgstr "Проявление сверху влево"
+
+#: languages/seedprod-lite.php:2808
+msgid "Fade In Top Right"
+msgstr "Проявление сверху вправо"
+
+#: languages/seedprod-lite.php:2811
+msgid "Fade In Bottom Left"
+msgstr "Проявление снизу влево"
+
+#: languages/seedprod-lite.php:2821
+msgid "Flip In X"
+msgstr "Переворот по X"
+
+#: languages/seedprod-lite.php:2824
+msgid "Flip In Y"
+msgstr "Переворот по Y"
+
+#: languages/seedprod-lite.php:2827
+msgid "Light Speed In Left"
+msgstr "Скорость света влево"
+
+#: languages/seedprod-lite.php:2830
+msgid "Light Speed In Right"
+msgstr "Скорость света вправо"
+
+#: languages/seedprod-lite.php:2833
+msgid "Roll In"
+msgstr "Свертывание"
+
+#: languages/seedprod-lite.php:2836
+msgid "Back In"
+msgstr "Возвращение"
+
+#: languages/seedprod-lite.php:2839
+msgid "Bounce In"
+msgstr "Отскок"
+
+#: languages/seedprod-lite.php:2842
+msgid "Note: In the preview the animation is applied when you select it. On the live page the animation will be applied when the element is scrolled into view."
+msgstr "Обратите внимание: в режиме предпросмотра анимация отображается при выборе. На странице анимация отображается, когда элемент окажется в области просмотра."
+
+#: languages/seedprod-lite.php:2994
+msgid "Before Label"
+msgstr "Этикетка «до»"
+
+#: languages/seedprod-lite.php:2998
+msgid "After Label"
+msgstr "Этикетка «после»"
+
+#: languages/seedprod-lite.php:3035
+msgid "Slider Orientation"
+msgstr "Ориентация ползунка"
+
+#: languages/seedprod-lite.php:3039
+msgid "Move on Hover"
+msgstr "Перемещать при наведении"
+
+#: languages/seedprod-lite.php:3043
+msgid "Comparison Handle"
+msgstr "Ползунок сравнения"
+
+#: languages/seedprod-lite.php:3047
+msgid "Handle Initial Offset"
+msgstr "Исходный отступ ползунка"
+
+#: languages/seedprod-lite.php:3051
+msgid "Handle Color"
+msgstr "Цвет ползунка"
+
+#: languages/seedprod-lite.php:3055
+msgid "Handle Thickness"
+msgstr "Толщина ползунка"
+
+#: languages/seedprod-lite.php:3059
+msgid "Circle Width"
+msgstr "Ширина окружности"
+
+#: languages/seedprod-lite.php:3063
+msgid "Circle Radius"
+msgstr "Радиус окружности"
+
+#: languages/seedprod-lite.php:3067
+msgid "Triangle Size"
+msgstr "Размер треугольника"
+
+#: languages/seedprod-lite.php:3480
+msgid "Content Area 1"
+msgstr "Зона контента 1"
+
+#: languages/seedprod-lite.php:3483
+msgid "Content Area 2"
+msgstr "Зона контента 2"
+
+#: languages/seedprod-lite.php:3489
+msgid "Content 1"
+msgstr "Контент 1"
+
+#: languages/seedprod-lite.php:3492
+msgid "Content 2"
+msgstr "Контент 2"
+
+#: languages/seedprod-lite.php:3495
+msgid "Templates Parts"
+msgstr "Части шаблонов"
+
+#: languages/seedprod-lite.php:3498
+msgid "Section Content"
+msgstr "Контент раздела"
+
+#: languages/seedprod-lite.php:3507
+msgid "Switcher Color"
+msgstr "Цвет переключателя"
+
+#: languages/seedprod-lite.php:3516
+msgid "Content 1 Color"
+msgstr "Цвет контента 1"
+
+#: languages/seedprod-lite.php:3519
+msgid "Content 2 Color"
+msgstr "Цвет контента 2"
+
+#: languages/seedprod-lite.php:3522
+msgid "Heading / Content"
+msgstr "Заголовок / контент"
+
+#: languages/seedprod-lite.php:3525
+msgid "Switcher"
+msgstr "Переключатель"
+
+#: languages/seedprod-lite.php:3528
+msgid "Switch Style"
+msgstr "Стиль переключателя"
+
+#: languages/seedprod-lite.php:3531
+msgid "Round"
+msgstr "Круглый"
+
+#: languages/seedprod-lite.php:3537
+msgid "Label Box"
+msgstr "Рамка этикетки"
+
+#: languages/seedprod-lite.php:3540
+msgid "Switch Size"
+msgstr "Размер переключателя"
+
+#: languages/seedprod-lite.php:3543
+msgid "Mini"
+msgstr "Мини"
+
+#: languages/seedprod-lite.php:3546
+msgid "No template parts available in SeedProd"
+msgstr "В SeedProd нет доступных частей шаблона"
+
+#: languages/seedprod-lite.php:3549
+msgid "Select Part"
+msgstr "Выбрать часть"
+
+#: languages/seedprod-lite.php:3552
+msgid "Loading Template Parts..."
+msgstr "Загрузка частей шаблонов..."
+
+#: languages/seedprod-lite.php:3555
+msgid "Edit This Template Part"
+msgstr "Изменить эту часть шаблона"
+
+#: languages/seedprod-lite.php:3645
+msgid "Starting Number"
+msgstr "Начальное число"
+
+#: languages/seedprod-lite.php:3648
+msgid "Ending Number"
+msgstr "Конечное число"
+
+#: languages/seedprod-lite.php:3651
+msgid "Number Prefix"
+msgstr "Префикс числа"
+
+#: languages/seedprod-lite.php:3654
+msgid "Number Suffix"
+msgstr "Суффикс числа"
+
+#: languages/seedprod-lite.php:3657
+msgid "Animation Duration"
+msgstr "Длительность анимации"
+
+#: languages/seedprod-lite.php:3660
+msgid "Thousands Separator"
+msgstr "Разделитель тысяч"
+
+#: languages/seedprod-lite.php:3668
+msgid "Dot"
+msgstr "Точка"
+
+#: languages/seedprod-lite.php:3678
+msgid "Number Text Color"
+msgstr "Цвет текста числа"
+
+#: languages/seedprod-lite.php:3681
+msgid "Number Align"
+msgstr "Выравнивание чисел"
+
+#: languages/seedprod-lite.php:4205
+msgid "Alerts"
+msgstr "Оповещения"
+
+#: app/functions-utils.php:846
+msgid "Author Bio"
+msgstr "Биография автора"
+
+#: languages/seedprod-lite.php:635
+msgid "Disable SeedProd Notifications"
+msgstr "Отключить уведомления SeedProd"
+
+#: languages/seedprod-lite.php:2521
+msgid "Success"
+msgstr "Готово"
+
+#: languages/seedprod-lite.php:2609
+msgid "Up"
+msgstr "Вверх"
+
+#: languages/seedprod-lite.php:2645
+msgid "Rotate"
+msgstr "Поворот"
+
+#: languages/seedprod-lite.php:2664
+msgid "Direct"
+msgstr "Прямо"
+
+#: languages/seedprod-lite.php:2694
+msgid "Zooming"
+msgstr "Приближение"
+
+#: languages/seedprod-lite.php:2697
+msgid "Zoom In"
+msgstr "Приближение"
+
+#: languages/seedprod-lite.php:2987
+msgid "Before Image"
+msgstr "Изображение «до»"
+
+#: languages/seedprod-lite.php:2990
+msgid "After Image"
+msgstr "Изображение «после»"
+
+#: languages/seedprod-lite.php:3486
+msgid "Toggle"
+msgstr "Переключатель"
+
+#: languages/seedprod-lite.php:3534
+msgid "Square"
+msgstr "Square"
+
+#: languages/seedprod-lite.php:3974
+msgid "- Select ID -"
+msgstr "- Выберите ID -"
+
+#: languages/seedprod-lite.php:3979
+msgid "Show Price"
+msgstr "Показать цену"
+
+#: languages/seedprod-lite.php:4152
+msgid "Product Text Color"
+msgstr "Цвет текста товара"
+
+#: languages/seedprod-lite.php:4164
+msgid "Price Text Color"
+msgstr "Цвет текста цены"
+
+#: languages/seedprod-lite.php:4208
+msgid "Total Color"
+msgstr "Общий цвет"
+
+#: languages/seedprod-lite.php:4238
+msgid "Cart Item Color"
+msgstr "Цвет товара в корзине"
+
+#: languages/seedprod-lite.php:4241
+msgid "Cart Links Color"
+msgstr "Цвет ссылок корзины"
+
+#: languages/seedprod-lite.php:4244
+msgid "Payments Border Color"
+msgstr "Цвет границы для платежей"
+
+#: languages/seedprod-lite.php:3965
+msgid "These settings are used to style item quantity fields. To enable them, enable \"Misc\" &rarr; \"General\" &rarr; \"Cart Item Quantities\" in the Downloads Plugin settings. Also uncheck the \"Disable quantity input for this product\" checkbox in the item download page if it has been checked."
+msgstr "Эти настройки используются для стилизации полей с количеством товаров. Чтобы активировать их, сначала включите «Разное» &rarr; «Общие» &rarr; «Количество товаров в корзине» в настройках плагина для загрузок. Также на странице загрузки товара снимите флажок «Отключить ввод количества для этого товара»."
+
+#: app/functions-utils.php:393
+msgid "Content Toggle"
+msgstr "Переключатель контента"
+
+#: app/functions-utils.php:417
+msgid "Business Reviews"
+msgstr "Отзывы о компании"
+
+#: app/functions-utils.php:631
+msgid "Team Member"
+msgstr "Участник команды"
+
+#: app/functions-utils.php:1153
+msgid "Product Gallery Images"
+msgstr "Изображения товара"
+
+#: languages/seedprod-lite.php:6008
+msgid "Add Section"
+msgstr "Добавить раздел"
+
+#: languages/seedprod-lite.php:6025
+msgid "Duplicate Section"
+msgstr "Дублировать раздел"
+
+#: languages/seedprod-lite.php:6029
+msgid "Delete Section"
+msgstr "Удалить раздел"
+
+#: languages/seedprod-lite.php:6938
+msgid "Copy Section"
+msgstr "Копировать раздел"
+
+#: languages/seedprod-lite.php:6941
+msgid "Paste Section"
+msgstr "Вставить раздел"
+
+#: languages/seedprod-lite.php:5981
+msgid "Add Row"
+msgstr "Добавить строку"
+
+#: languages/seedprod-lite.php:5950
+msgid "Duplicate Row"
+msgstr "Дублировать строку"
+
+#: languages/seedprod-lite.php:5954
+msgid "Delete Row"
+msgstr "Удалить строку"
+
+#: languages/seedprod-lite.php:6944
+msgid "Copy Row"
+msgstr "Копировать строку"
+
+#: languages/seedprod-lite.php:6947
+msgid "Paste Row"
+msgstr "Вставить строку"
+
+#: languages/seedprod-lite.php:6953
+msgid "Duplicate Column"
+msgstr "Дублировать столбец"
+
+#: languages/seedprod-lite.php:6956
+msgid "Delete Column"
+msgstr "Удалить столбец"
+
+#: languages/seedprod-lite.php:6959
+msgid "Copy Column"
+msgstr "Копировать столбец"
+
+#: languages/seedprod-lite.php:6962
+msgid "Paste Column"
+msgstr "Вставить столбец"
+
+#: languages/seedprod-lite.php:5970
+msgid "Duplicate Block"
+msgstr "Дублировать блок"
+
+#: languages/seedprod-lite.php:5974
+msgid "Delete Block"
+msgstr "Удалить блок"
+
+#: languages/seedprod-lite.php:6965
+msgid "Copy Block"
+msgstr "Копировать блок"
+
+#: languages/seedprod-lite.php:6968
+msgid "Paste Block"
+msgstr "Вставить блок"
+
+#: app/bootstrap.php:252 resources/views/seedprod-preview.php:64
+msgid "You have already added this item to your cart"
+msgstr "Вы уже добавили этот товар в Корзину"
+
+#: app/bootstrap.php:253 resources/views/seedprod-preview.php:65
+msgid "Your cart is empty"
+msgstr "Ваша корзина пуста"
+
+#: app/bootstrap.php:255 resources/views/seedprod-preview.php:67
+msgid "Please select an option"
+msgstr "Выберите вариант"
+
+#: app/functions-utils.php:1166
+msgid "Downloads Grid"
+msgstr "Сетка загрузок"
+
+#: app/functions-utils.php:1200
+msgid "Buy Now Button"
+msgstr "Кнопка «Купить сейчас»"
+
+#: app/functions-utils.php:1218
+msgid "Download Title"
+msgstr "Загрузить название"
+
+#: app/functions-utils.php:1229
+msgid "Download Featured Image"
+msgstr "Загрузить избранное изображение"
+
+#: app/functions-utils.php:1240
+msgid "Download Price"
+msgstr "Загрузить цену"
+
+#: app/functions-utils.php:1251
+msgid "Download Content"
+msgstr "Загрузить содержимое"
+
+#: app/functions-utils.php:1262
+msgid "Download Add To Cart"
+msgstr "Загрузить «Добавить в корзину»"
+
+#: app/functions-utils.php:1273
+msgid "Download Excerpt"
+msgstr "Загрузить отрывок"
+
+#: app/functions-utils.php:1284
+msgid "Download Instructions"
+msgstr "Загрузить инструкции"
+
+#: app/functions-utils.php:1121
+msgid "Hotspot"
+msgstr "Горячая точка"
+
+#: app/functions-utils.php:642
+msgid "Price List"
+msgstr "Прайс-лист"
+
+#: app/functions-utils.php:204
+msgid " Payment Button"
+msgstr " Кнопка оплаты"
+
+#: app/functions-utils.php:362
+msgid "Before After Toggle"
+msgstr "Ползунок «до/после»"
+
+#: app/functions-utils.php:1140
+msgid "Counter"
+msgstr "Счетчик"
+
+#: languages/seedprod-lite.php:7306
+msgid "Page Settings"
+msgstr "Настройки страницы"
+
+#: languages/seedprod-lite.php:2387
+msgid "Header"
+msgstr "Заголовок"
+
+#: languages/seedprod-lite.php:795
+msgid "Email"
+msgstr "Эл. почта"
+
+#: languages/seedprod-lite.php:2928
+msgid "Cover"
+msgstr "Покрытие"
+
+#: languages/seedprod-lite.php:7006
+msgid "Blocks"
+msgstr "Блоки"
+
+#: languages/seedprod-lite.php:6699
+msgid "Editing:"
+msgstr "Редактирование:"
+
+#: languages/seedprod-lite.php:7423
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: languages/seedprod-lite.php:7010
+msgid "Sections"
+msgstr "Разделы"
+
+#: app/functions-utils.php:770 languages/seedprod-lite.php:2390
+msgid "Alert"
+msgstr "Предупреждение"
+
+#: languages/seedprod-lite.php:6929
+msgid "Expand All"
+msgstr "Развернуть все"
+
+#: languages/seedprod-lite.php:6932
+msgid "Collapse All"
+msgstr "Свернуть все"
+
+#: languages/seedprod-lite.php:6935
+msgid "Section"
+msgstr "Раздел"
+
+#: languages/seedprod-lite.php:6003
+msgid "Enter a new section template name:"
+msgstr "Введите имя нового шаблона раздела:"
+
+#: languages/seedprod-lite.php:5932
+msgid "Save Template"
+msgstr "Сохранить шаблон"
+
+#: languages/seedprod-lite.php:5923
+msgid "Choose your layout:"
+msgstr "Выберите макет:"
+
+#: languages/seedprod-lite.php:4004
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: languages/seedprod-lite.php:7272
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: languages/seedprod-lite.php:6352
+msgid "Typography"
+msgstr "Типографика"
+
+#: languages/seedprod-lite.php:2409
+msgid "Description"
+msgstr "Описание"
+
+#: languages/seedprod-lite.php:7345
+msgid "Help"
+msgstr "Помощь"
+
+#: languages/seedprod-lite.php:6355
+msgid "Line Height"
+msgstr "Высота строки"
+
+#: languages/seedprod-lite.php:6032
+msgid "Section Width"
+msgstr "Ширина раздела"
+
+#: languages/seedprod-lite.php:6191
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: languages/seedprod-lite.php:6142
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: languages/seedprod-lite.php:6150
+msgid "Instagram"
+msgstr "Instagram"
+
+#: languages/seedprod-lite.php:6130
+msgid "Facebook"
+msgstr "Facebook"
+
+#: languages/seedprod-lite.php:6172
+msgid "Icon Padding"
+msgstr "Внутренний отступ значка"
+
+#: languages/seedprod-lite.php:6175
+msgid "Phone"
+msgstr "Телефон"
+
+#: languages/seedprod-lite.php:7171
+msgid "Draft"
+msgstr "Черновик"
+
+#: languages/seedprod-lite.php:6165
+msgid "RSS"
+msgstr "RSS"
+
+#: languages/seedprod-lite.php:6746
+msgid "Links"
+msgstr "Ссылки"
+
+#: languages/seedprod-lite.php:7348
+msgid "Save"
+msgstr "Сохранить"
+
+#: languages/seedprod-lite.php:4351
+msgid "Include"
+msgstr "Включить"
+
+#: languages/seedprod-lite.php:6147
+msgid "YouTube"
+msgstr "YouTube"
+
+#: languages/seedprod-lite.php:4367
+msgid "Term"
+msgstr "Термин"
+
+#: languages/seedprod-lite.php:6758
+msgid "Fonts"
+msgstr "Шрифты"
+
+#: languages/seedprod-lite.php:6156
+msgid "WordPress"
+msgstr "WordPress"
+
+#: languages/seedprod-lite.php:4133
+msgid "Button Color"
+msgstr "Цвет кнопки"
+
+#: languages/seedprod-lite.php:4425
+msgid "Price"
+msgstr "Цена"
+
+#: languages/seedprod-lite.php:6053
+msgid "Outline"
+msgstr "Контур"
+
+#: languages/seedprod-lite.php:5643
+msgid "Currency Symbol"
+msgstr "Символ валюты"
+
+#: languages/seedprod-lite.php:6980
+msgid "by"
+msgstr "от"
+
+#: languages/seedprod-lite.php:4114
+msgid "Two Column"
+msgstr "Два столбца"
+
+#: languages/seedprod-lite.php:4578
+msgid "Featured"
+msgstr "Рекомендуемые"
+
+#: languages/seedprod-lite.php:7190
+msgid "Enable"
+msgstr "Включить"
+
+#: languages/seedprod-lite.php:4468
+msgid "ID"
+msgstr "ID"
+
+#: languages/seedprod-lite.php:6200
+msgid "TikTok"
+msgstr "TikTok"
+
+#: languages/seedprod-lite.php:4384
+msgid "Popularity"
+msgstr "Популярность"
+
+#: languages/seedprod-lite.php:5547
+msgid "Arrows"
+msgstr "Стрелки"
+
+#: languages/seedprod-lite.php:6806
+msgid "H1 "
+msgstr "H1 "
+
+#: languages/seedprod-lite.php:6812
+msgid "H2 "
+msgstr "H2 "
+
+#: languages/seedprod-lite.php:6818
+msgid "H3 "
+msgstr "H3 "
+
+#: languages/seedprod-lite.php:6824
+msgid "H4 "
+msgstr "H4 "
+
+#: languages/seedprod-lite.php:6830
+msgid "H5 "
+msgstr "H5 "
+
+#: languages/seedprod-lite.php:6836
+msgid "H6 "
+msgstr "H6 "
+
+#: languages/seedprod-lite.php:6809
+msgid "H1 Color"
+msgstr "Цвет H1"
+
+#: languages/seedprod-lite.php:6815
+msgid "H2 Color"
+msgstr "Цвет H2"
+
+#: languages/seedprod-lite.php:6821
+msgid "H3 Color"
+msgstr "Цвет H3"
+
+#: languages/seedprod-lite.php:6827
+msgid "H4 Color"
+msgstr "Цвет H4"
+
+#: languages/seedprod-lite.php:6833
+msgid "H5 Color"
+msgstr "Цвет H5"
+
+#: languages/seedprod-lite.php:6839
+msgid "H6 Color"
+msgstr "Цвет H6"
+
+#: languages/seedprod-lite.php:5386
+msgid "Autoplay Speed"
+msgstr "Скорость автовоспроизведения"
+
+#: languages/seedprod-lite.php:5401
+msgid "Pause On Hover"
+msgstr "Пауза при наведении"
+
+#: languages/seedprod-lite.php:5461
+msgid "Space Bottom"
+msgstr "Пространство снизу"
+
+#: languages/seedprod-lite.php:4451
+msgid "Image Border Width"
+msgstr "Ширина границы изображения"
+
+#: languages/seedprod-lite.php:5482
+msgid "Post Padding"
+msgstr "Внутренний отступ записи"
+
+#: languages/seedprod-lite.php:5485
+msgid "Image Margin"
+msgstr "Внешний отступ изображения"
+
+#: languages/seedprod-lite.php:5556
+msgid "Post Background Color"
+msgstr "Цвет фона записи"
+
+#: languages/seedprod-lite.php:7420
+msgid "Search blocks..."
+msgstr "Поиск блоков..."
+
+#: languages/seedprod-lite.php:4327
+msgid "All Products"
+msgstr "Все товары"
+
+#: languages/seedprod-lite.php:7096
+msgid "Analytics"
+msgstr "Аналитика"
+
+#: languages/seedprod-lite.php:2642
+msgid "Blur"
+msgstr "Размытие"
+
+#: languages/seedprod-lite.php:7303
+msgid "Connect"
+msgstr "Подключить"
+
+#: languages/seedprod-lite.php:2476
+msgid "Description Color"
+msgstr "Цвет описания"
+
+#: languages/seedprod-lite.php:6857
+msgid "Field"
+msgstr "Поле"
+
+#: languages/seedprod-lite.php:2818
+msgid "Flip"
+msgstr "Переворот"
+
+#: languages/seedprod-lite.php:6854
+msgid "Forms"
+msgstr "Формы"
+
+#: languages/seedprod-lite.php:5818
+msgid "Heading"
+msgstr "Заголовок"
+
+#: languages/seedprod-lite.php:6056
+msgid "Inset"
+msgstr "Вставка"
+
+#: languages/seedprod-lite.php:3983
+msgid "Product ID"
+msgstr "ID товара"
+
+#: languages/seedprod-lite.php:7333
+msgid "Save as Template"
+msgstr "Сохранить как шаблон"
+
+#: languages/seedprod-lite.php:6187
+msgid "Slack"
+msgstr "Slack"
+
+#: languages/seedprod-lite.php:3970
+msgid "Direct To Checkout"
+msgstr "Перейти к оплате"
+
+#: languages/seedprod-lite.php:4020
+msgid "Payment Section"
+msgstr "Раздел оплаты"
+
+#: languages/seedprod-lite.php:4141
+msgid "Cart Border Color"
+msgstr "Цвет границы корзины"
+
+#: languages/seedprod-lite.php:4149
+msgid "Cart Border Width"
+msgstr "Ширина границы корзины"
+
+#: languages/seedprod-lite.php:4171
+msgid "Header Font Family"
+msgstr "Семейство шрифтов заголовка"
+
+#: languages/seedprod-lite.php:4215
+msgid "Info Highlight Color"
+msgstr "Цвет выделения информации"
+
+#: languages/seedprod-lite.php:4222
+msgid "Error Highlight Color"
+msgstr "Цвет выделения ошибки"
+
+#: languages/seedprod-lite.php:4229
+msgid "Success Highlight Color"
+msgstr "Цвет выделения подтверждения"
+
+#: languages/seedprod-lite.php:4317
+msgid "Query"
+msgstr "Запрос"
+
+#: languages/seedprod-lite.php:4355
+msgid "Exclude"
+msgstr "Исключить"
+
+#: languages/seedprod-lite.php:4359
+msgid "Include By"
+msgstr "Включить по"
+
+#: languages/seedprod-lite.php:4363
+msgid "Exclude By"
+msgstr "Исключить по"
+
+#: languages/seedprod-lite.php:4432
+msgid "Price Color"
+msgstr "Цвет цены"
+
+#: languages/seedprod-lite.php:4496
+msgid "Select By Category"
+msgstr "Выбрать по категории"
+
+#: languages/seedprod-lite.php:4505
+msgid "Select By Tags"
+msgstr "Выбрать по меткам"
+
+#: languages/seedprod-lite.php:4509
+msgid "- Select Tags -"
+msgstr "- Выберите метки -"
+
+#: languages/seedprod-lite.php:4513
+msgid "Select By Group"
+msgstr "Выбрать по группе"
+
+#: languages/seedprod-lite.php:4517
+msgid "- Select Group -"
+msgstr "- Выберите группу -"
+
+#: languages/seedprod-lite.php:4537
+msgid "Include Selected Terms"
+msgstr "Включать выбранные термины"
+
+#: languages/seedprod-lite.php:4541
+msgid "Exclude Selected Terms"
+msgstr "Исключать выбранные термины"
+
+#: languages/seedprod-lite.php:4545
+msgid "Include Selected Tags"
+msgstr "Включать выбранные метки"
+
+#: languages/seedprod-lite.php:4549
+msgid "Exclude Selected Tags"
+msgstr "Исключать выбранные метки"
+
+#: languages/seedprod-lite.php:4558
+msgid "Exclude Selected Categories"
+msgstr "Исключать выбранные категории"
+
+#: languages/seedprod-lite.php:4568
+msgid "Catalog"
+msgstr "Каталог"
+
+#: languages/seedprod-lite.php:4582
+msgid "Custom Query"
+msgstr "Произвольный запрос"
+
+#: languages/seedprod-lite.php:4586
+msgid "Select By ID"
+msgstr "Выбрать по ID"
+
+#: languages/seedprod-lite.php:4590
+msgid "- Select ID(s) -"
+msgstr "- Выберите ID -"
+
+#: languages/seedprod-lite.php:4594
+msgid "Show Items Count"
+msgstr "Показывать количество элементов"
+
+#: languages/seedprod-lite.php:4598
+msgid "Show Order By"
+msgstr "Показывать опцию «Упорядочить»"
+
+#: languages/seedprod-lite.php:5637
+msgid "Features List"
+msgstr "Список возможностей"
+
+#: languages/seedprod-lite.php:5640
+msgid "Plan Name"
+msgstr "Название плана"
+
+#: languages/seedprod-lite.php:5796
+msgid "Plan Name Typography"
+msgstr "Типографика названия плана"
+
+#: languages/seedprod-lite.php:5646
+msgid "Plan Name Color"
+msgstr "Цвет названия плана"
+
+#: languages/seedprod-lite.php:5649
+msgid "Top Button Size"
+msgstr "Размер верхней кнопки"
+
+#: languages/seedprod-lite.php:5652
+msgid "Top Button"
+msgstr "Верхняя кнопка"
+
+#: languages/seedprod-lite.php:5655
+msgid "Bottom Button"
+msgstr "Нижняя кнопка"
+
+#: languages/seedprod-lite.php:5658
+msgid "Top Size"
+msgstr "Размер сверху"
+
+#: languages/seedprod-lite.php:5661
+msgid "Top Button Before Text Icon"
+msgstr "Верхняя кнопка до значка текста"
+
+#: languages/seedprod-lite.php:5664
+msgid "Top Button After Text Icon"
+msgstr "Верхняя кнопка после значка текста"
+
+#: languages/seedprod-lite.php:5667
+msgid "Regular Price Color"
+msgstr "Цвет обычной цены"
+
+#: languages/seedprod-lite.php:5676
+msgid "$ Dollar"
+msgstr "$ доллар"
+
+#: languages/seedprod-lite.php:5679
+msgid "€ Euro"
+msgstr "€ Евро"
+
+#: languages/seedprod-lite.php:5682
+msgid "฿ Baht"
+msgstr "฿ бат"
+
+#: languages/seedprod-lite.php:5685
+msgid "₣ Franc"
+msgstr "₣ франк"
+
+#: languages/seedprod-lite.php:5688
+msgid "ƒ Guilder"
+msgstr "ƒ гульден"
+
+#: languages/seedprod-lite.php:5691
+msgid "kr Krona"
+msgstr "kr крона"
+
+#: languages/seedprod-lite.php:5694
+msgid "₤ Lira"
+msgstr "₤ лира"
+
+#: languages/seedprod-lite.php:5697
+msgid "₧ Peseta"
+msgstr "₧ песета"
+
+#: languages/seedprod-lite.php:5700
+msgid "₱ Peso"
+msgstr "₱ песо"
+
+#: languages/seedprod-lite.php:5703
+msgid "£ Pound Sterling"
+msgstr "£ фунт стерлингов"
+
+#: languages/seedprod-lite.php:5706
+msgid "R$ Real"
+msgstr "R$ реал"
+
+#: languages/seedprod-lite.php:5709
+msgid "₽ Ruble"
+msgstr "₽ рубль"
+
+#: languages/seedprod-lite.php:5712
+msgid "₨ Rupee"
+msgstr "₨ рупия"
+
+#: languages/seedprod-lite.php:5715
+msgid "₹ Rupee (Indian)"
+msgstr "₹ рупия (индийская)"
+
+#: languages/seedprod-lite.php:5718
+msgid "₪ Shekel"
+msgstr "₪ шекель"
+
+#: languages/seedprod-lite.php:5721
+msgid "¥ Yen/Yuan"
+msgstr "¥ йена/юань"
+
+#: languages/seedprod-lite.php:5724
+msgid "₩ Won"
+msgstr "₩ вон"
+
+#: languages/seedprod-lite.php:5727
+msgid "Custom Symbol"
+msgstr "Другой символ"
+
+#: languages/seedprod-lite.php:5730
+msgid "Period"
+msgstr "Период"
+
+#: languages/seedprod-lite.php:5733
+msgid "Show Regular Price"
+msgstr "Показывать обычную цену"
+
+#: languages/seedprod-lite.php:5736
+msgid "Regular Price"
+msgstr "Обычная цена"
+
+#: languages/seedprod-lite.php:5739
+msgid "Regular Price Label"
+msgstr "Этикетка обычной цены"
+
+#: languages/seedprod-lite.php:5745
+msgid "Top Button Text"
+msgstr "Текст верхней кнопки"
+
+#: languages/seedprod-lite.php:5748
+msgid "Top Button Link"
+msgstr "Ссылка верхней кнопки"
+
+#: languages/seedprod-lite.php:5751
+msgid "Show Bottom Button"
+msgstr "Показывать нижнюю кнопку"
+
+#: languages/seedprod-lite.php:5754
+msgid "Bottom Button Text"
+msgstr "Текст нижней кнопки"
+
+#: languages/seedprod-lite.php:5757
+msgid "Bottom Button Link"
+msgstr "Ссылка нижней кнопки"
+
+#: languages/seedprod-lite.php:5760
+msgid "Top Button Color"
+msgstr "Цвет верхней кнопки"
+
+#: languages/seedprod-lite.php:5763
+msgid "Features List Color"
+msgstr "Цвет списка особенностей"
+
+#: languages/seedprod-lite.php:5766
+msgid "Bottom Button Color"
+msgstr "Цвет нижней кнопки"
+
+#: languages/seedprod-lite.php:5769
+msgid "Bottom Button Size"
+msgstr "Размер нижней кнопки"
+
+#: languages/seedprod-lite.php:5772
+msgid "Bottom Button Before Text Icon"
+msgstr "Нижняя кнопка до значка текста"
+
+#: languages/seedprod-lite.php:5775
+msgid "Bottom Button After Text Icon"
+msgstr "Нижняя кнопка после значка текста"
+
+#: languages/seedprod-lite.php:5778
+msgid "Price Superscript"
+msgstr "Верхний индекс цены"
+
+#: languages/seedprod-lite.php:5781
+msgid "Price Superscript Top"
+msgstr "Верхний индекс цены сверху"
+
+#: languages/seedprod-lite.php:5809
+msgid "Tab"
+msgstr "Вкладка"
+
+#: languages/seedprod-lite.php:5813
+msgid "Panel"
+msgstr "Панель"
+
+#: languages/seedprod-lite.php:5831
+msgid "Panel Padding"
+msgstr "Внутренний отступ панели"
+
+#: languages/seedprod-lite.php:5896
+msgid "Posts Per Page"
+msgstr "Записей на странице"
+
+#: languages/seedprod-lite.php:5900
+msgid "Sale Badge Color"
+msgstr "Цвет бейджа акции"
+
+#: languages/seedprod-lite.php:5906
+msgid "Bar Text"
+msgstr "Текст панели"
+
+#: languages/seedprod-lite.php:5912
+msgid "My Text"
+msgstr "Мой текст"
+
+#: languages/seedprod-lite.php:5917
+msgid "Drag a new block here"
+msgstr "Перетащите новый блок сюда"
+
+#: languages/seedprod-lite.php:5926
+msgid "Enter a new block template name:"
+msgstr "Введите имя для нового шаблона блока:"
+
+#: languages/seedprod-lite.php:5987
+msgid "Row Width"
+msgstr "Ширина ряда"
+
+#: languages/seedprod-lite.php:5995
+msgid "Fixed Width"
+msgstr "Фиксированная ширина"
+
+#: languages/seedprod-lite.php:6035
+msgid "Powerful Page Editor"
+msgstr "Функциональный редактор страниц"
+
+#: languages/seedprod-lite.php:6038
+msgid "Email Marketing Integrations"
+msgstr "Интеграция маркетинга по эл. почте"
+
+#: languages/seedprod-lite.php:6041
+msgid "Access Controls"
+msgstr "Контроль доступа"
+
+#: languages/seedprod-lite.php:6044
+msgid "Subscriber Management"
+msgstr "Управление подписчиками"
+
+#: languages/seedprod-lite.php:6059
+msgid "Mountains"
+msgstr "Горы"
+
+#: languages/seedprod-lite.php:6062
+msgid "Drops"
+msgstr "Капли"
+
+#: languages/seedprod-lite.php:6065
+msgid "Clouds"
+msgstr "Облака"
+
+#: languages/seedprod-lite.php:6068
+msgid "Zigzag"
+msgstr "Зигзаг"
+
+#: languages/seedprod-lite.php:6071
+msgid "Pyramids"
+msgstr "Пирамиды"
+
+#: languages/seedprod-lite.php:6074
+msgid "Triangle"
+msgstr "Треугольник"
+
+#: languages/seedprod-lite.php:6077
+msgid "Triangle Asymmetrical"
+msgstr "Треугольник асимметричный"
+
+#: languages/seedprod-lite.php:6080
+msgid "Tilt"
+msgstr "Наклон"
+
+#: languages/seedprod-lite.php:6083
+msgid "Tilt Opacity"
+msgstr "Прозрачность наклона"
+
+#: languages/seedprod-lite.php:6086
+msgid "Fan Opacity"
+msgstr "Прозрачность веера"
+
+#: languages/seedprod-lite.php:6089
+msgid "Curve"
+msgstr "Кривая"
+
+#: languages/seedprod-lite.php:6092
+msgid "Curve Asymmetrical"
+msgstr "Кривая асимметричная"
+
+#: languages/seedprod-lite.php:6095
+msgid "Waves"
+msgstr "Волны"
+
+#: languages/seedprod-lite.php:6098
+msgid "Waves Brush"
+msgstr "Волнистая кисть"
+
+#: languages/seedprod-lite.php:6101
+msgid "Waves Pattern"
+msgstr "Волнистый узор"
+
+#: languages/seedprod-lite.php:6107
+msgid "Split"
+msgstr "Разделить"
+
+#: languages/seedprod-lite.php:6110
+msgid "Book"
+msgstr "Книга"
+
+#: languages/seedprod-lite.php:6113
+msgid "Invert"
+msgstr "Инверсия"
+
+#: languages/seedprod-lite.php:6116
+msgid "Bring to Front"
+msgstr "На передний план"
+
+#: languages/seedprod-lite.php:6122
+msgid "Show Shortcode Preview"
+msgstr "Предпросмотр шорткода"
+
+#: languages/seedprod-lite.php:6126
+msgid "Select a Type"
+msgstr "Выберите тип"
+
+#: languages/seedprod-lite.php:6138
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: languages/seedprod-lite.php:6159
+msgid "Github"
+msgstr "Github"
+
+#: languages/seedprod-lite.php:6162
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: languages/seedprod-lite.php:6168
+msgid "URL (Include https:// for web links)"
+msgstr "URL (для веб-ссылок добавьте «https://»)"
+
+#: languages/seedprod-lite.php:6178
+msgid "Discord"
+msgstr "Discord"
+
+#: languages/seedprod-lite.php:6181
+msgid "Telegram"
+msgstr "Telegram"
+
+#: languages/seedprod-lite.php:6184
+msgid "Facebook Messenger"
+msgstr "Facebook Messenger"
+
+#: languages/seedprod-lite.php:6194
+msgid "Weibo"
+msgstr "Weibo"
+
+#: languages/seedprod-lite.php:6204
+msgid "Add New Share"
+msgstr "Добавить элемент"
+
+#: languages/seedprod-lite.php:6210
+msgid "Tweet Text"
+msgstr "Текст твита"
+
+#: languages/seedprod-lite.php:6219
+msgid "Star Color"
+msgstr "Цвет звезды"
+
+#: languages/seedprod-lite.php:6222
+msgid "Empty Star Color"
+msgstr "Цвет пустой звезды"
+
+#: languages/seedprod-lite.php:6319
+msgid "Add Testimonial"
+msgstr "Добавить отзыв"
+
+#: languages/seedprod-lite.php:6322
+msgid "Navigation Color Mode"
+msgstr "Цветовой режим навигации"
+
+#: languages/seedprod-lite.php:6334
+msgid "Enable Comment Bubble"
+msgstr "Включить поле комментария"
+
+#: languages/seedprod-lite.php:6337
+msgid "Bubble Color"
+msgstr "Цвет поля"
+
+#: languages/seedprod-lite.php:6346
+msgid "Visual Editor"
+msgstr "Визуальный редактор"
+
+#: languages/seedprod-lite.php:6349
+msgid "Edit HTML"
+msgstr "Редактировать HTML"
+
+#: languages/seedprod-lite.php:6361
+msgid "Letter Case"
+msgstr "Регистр букв"
+
+#: languages/seedprod-lite.php:6392
+msgid "YouTube URL"
+msgstr "URL YouTube"
+
+#: languages/seedprod-lite.php:6396
+msgid "Custom Video Code"
+msgstr "Собственный код для видео"
+
+#: languages/seedprod-lite.php:6582
+msgid "Select By SKU"
+msgstr "Выбрать по артикулу"
+
+#: languages/seedprod-lite.php:6585
+msgid "- Select SKU(s) -"
+msgstr "- Выберите артикулы -"
+
+#: languages/seedprod-lite.php:6591
+msgid "Best Selling"
+msgstr "Самое популярное"
+
+#: languages/seedprod-lite.php:6597
+msgid "Query By Attribute"
+msgstr "Запрос по атрибуту"
+
+#: languages/seedprod-lite.php:6600
+msgid "- Select Attribute -"
+msgstr "- Выберите атрибут -"
+
+#: languages/seedprod-lite.php:6603
+msgid "- Select Attribute Terms -"
+msgstr "- Выберите термины атрибута -"
+
+#: languages/seedprod-lite.php:6606
+msgid "Select By Visibility"
+msgstr "Выбрать по видимости"
+
+#: languages/seedprod-lite.php:6609
+msgid "- Select Product Visibility -"
+msgstr "- Выберите видимость товара -"
+
+#: languages/seedprod-lite.php:6612
+msgid "(Click 'Apply' on the Widget Settings to see changes)"
+msgstr "(Чтобы увидеть изменения, нажмите «Применить» в настройках виджета)"
+
+#: languages/seedprod-lite.php:6615
+msgid "Widget Settings"
+msgstr "Настройки виджета"
+
+#: languages/seedprod-lite.php:6618
+msgid "Heading Bottom Margin"
+msgstr "Нижний внешний отступ заголовка"
+
+#: languages/seedprod-lite.php:6653
+msgid "Are you sure you want to delete?"
+msgstr "Подтверждаете удаление?"
+
+#: languages/seedprod-lite.php:6658
+msgid "Yes, delete it!"
+msgstr "Да, удалить!"
+
+#: languages/seedprod-lite.php:6661
+msgid "Visit Docs&nbsp;<i class=\"fas fa-external-link-alt\"></i>"
+msgstr "Посмотрите документацию <i class=\"fas fa-external-link-alt\"></i>"
+
+#: languages/seedprod-lite.php:199
+msgid "UPGRADE TO PRO"
+msgstr "ПЕРЕЙТИ НА PRO"
+
+#: languages/seedprod-lite.php:6664
+msgid "<strong>Bonus:</strong>&nbsp;SeedProd Lite users get a discount off the regular price, automatically applied at checkout."
+msgstr "<strong>Бонус:</strong> все пользователи SeedProd Lite автоматически получат скидку от обычной цены на этапе оплаты."
+
+#: languages/seedprod-lite.php:203
+msgid "Thanks for your interest in SeedProd Lite!<br>If you have any questions or issues just <a href='https://www.seedprod.com/?contact=1' target='_blank'>let us know</a>.<br><br>After purchasing SeedProd Lite, you'll need to download and install the Pro version of the plugin, and then remove the free plugin. <br><br>(Don't worry, all your settings will be preserved.)"
+msgstr "Благодарим за интерес к SeedProd Lite!<br><a href='https://www.seedprod.com/?contact=1' target='_blank'>Свяжитесь с нами</a> при возникновении каких-либо вопросов или затруднений.<br><br>После покупки SeedProd Lite нужно будет загрузить и установить Pro-версию плагина, а затем удалить бесплатный плагин. <br><br>(Не волнуйтесь, все ваши настройки будут сохранены.)"
+
+#: languages/seedprod-lite.php:183
+msgid "Increase traffic, engagement, and get more email subscribers. Click below to learn more about all our awesome features."
+msgstr "Повышайте трафик и вовлеченность пользователей, увеличивайте количество адресов в рассылках. Нажмите ниже, чтобы узнать подробнее о наших потрясающих функциях."
+
+#: languages/seedprod-lite.php:6670
+msgid " feature is not available on your plan. Please upgrade your plan to unlock this feature and more!"
+msgstr " является недоступной функцией для вашего плана. Перейдите на план более высокого уровня, чтобы открыть эту функцию и многое другое!"
+
+#: languages/seedprod-lite.php:6673
+msgid "Upgrade with just a click of a button!"
+msgstr "Смените план одним нажатием!"
+
+#: languages/seedprod-lite.php:6703
+msgid "Global CSS Settings"
+msgstr "Настройки глобального CSS"
+
+#: languages/seedprod-lite.php:6707
+msgid "Header Font"
+msgstr "Шрифт заголовка"
+
+#: languages/seedprod-lite.php:6711
+msgid "Body Text Font"
+msgstr "Шрифт основного текста"
+
+#: languages/seedprod-lite.php:6714
+msgid "Use Video Background"
+msgstr "Использовать фоновое видео"
+
+#: languages/seedprod-lite.php:6718
+msgid "The video background will not be displayed on mobile devices or in the editor preview."
+msgstr "Фоновое видео не будет отображаться на мобильных устройствах и в режиме предпросмотра редактора."
+
+#: languages/seedprod-lite.php:6722
+msgid "Play on auto-loop"
+msgstr "Автоматически повторять воспроизведение"
+
+#: languages/seedprod-lite.php:6726
+msgid "Enter your custom css below"
+msgstr "Введите пользовательский CSS ниже"
+
+#: languages/seedprod-lite.php:6730
+msgid "Edit Custom CSS"
+msgstr "Изменить пользовательский CSS"
+
+#: languages/seedprod-lite.php:6734
+msgid "Font Themes Library"
+msgstr "Библиотека тем шрифтов"
+
+#: languages/seedprod-lite.php:6738
+msgid "Search colors..."
+msgstr "Поиск цветов..."
+
+#: languages/seedprod-lite.php:6742
+msgid "Search fonts..."
+msgstr "Поиск шрифтов..."
+
+#: languages/seedprod-lite.php:6750
+msgid "Font Themes"
+msgstr "Темы шрифтов"
+
+#: languages/seedprod-lite.php:6754
+msgid "Color Palettes"
+msgstr "Цветовые палитры"
+
+#: languages/seedprod-lite.php:6766
+msgid "All Palettes"
+msgstr "Все палитры"
+
+#: languages/seedprod-lite.php:6770
+msgid "All Themes"
+msgstr "Все темы"
+
+#: languages/seedprod-lite.php:6774
+msgid "Serif"
+msgstr "С засечками"
+
+#: languages/seedprod-lite.php:6778
+msgid "Sans Serif"
+msgstr "Без засечек"
+
+#: languages/seedprod-lite.php:6782
+msgid "Background Slideshow"
+msgstr "Фоновое слайд-шоу"
+
+#: languages/seedprod-lite.php:6786
+msgid "Slideshow Images"
+msgstr "Изображения для слайд-шоу"
+
+#: languages/seedprod-lite.php:6790
+msgid "Add New Slide"
+msgstr "Добавить слайд"
+
+#: languages/seedprod-lite.php:6794
+msgid "The background slideshow will not be shown in the editor preview. The slides will only be displayed in the live preview."
+msgstr "Фоновое слайд-шоу не показывается в режиме предпросмотра редактора. Слайды отображаются только в интерактивном предпросмотре."
+
+#: languages/seedprod-lite.php:6797
+msgid "Add Custom Color"
+msgstr "Добавить другой цвет"
+
+#: languages/seedprod-lite.php:6803
+msgid "Show H1 - H6 Settings"
+msgstr "Показывать настройки H1–H6"
+
+#: languages/seedprod-lite.php:6842
+msgid "Body Text"
+msgstr "Основной текст"
+
+#: languages/seedprod-lite.php:6845
+msgid "Desktop BG"
+msgstr "Фон для ПК"
+
+#: languages/seedprod-lite.php:6848
+msgid "Mobile BG"
+msgstr "Фон для мобильного"
+
+#: languages/seedprod-lite.php:6851
+msgid "Row Default Max Width"
+msgstr "Максимальная ширина строки по умолчанию"
+
+#: languages/seedprod-lite.php:6860
+msgid "Field Border Style"
+msgstr "Стиль границы поля"
+
+#: languages/seedprod-lite.php:6863
+msgid "Field Padding"
+msgstr "Внутренний отступ поля"
+
+#: languages/seedprod-lite.php:6866
+msgid "Header Default Bottom Margin"
+msgstr "Нижний внешний отступ заголовка по умолчанию"
+
+#: languages/seedprod-lite.php:6869
+msgid "Paragraph Default Bottom Margin"
+msgstr "Нижний внешний отступ параграфа по умолчанию"
+
+#: languages/seedprod-lite.php:6872
+msgid "Label Default Bottom Margin"
+msgstr "Нижний внешний отступ этикетки по умолчанию"
+
+#: languages/seedprod-lite.php:6974
+msgid "Click to preview version:"
+msgstr "Нажмите для предпросмотра версии:"
+
+#: languages/seedprod-lite.php:6977
+msgid "Current Version"
+msgstr "Текущая версия"
+
+#: languages/seedprod-lite.php:6989
+msgid "Choose This Section"
+msgstr "Выбрать этот раздел"
+
+#: languages/seedprod-lite.php:6993
+msgid "Deleted!"
+msgstr "Удаление выполнено!"
+
+#: languages/seedprod-lite.php:6996
+msgid "All Sections"
+msgstr "Все разделы"
+
+#: languages/seedprod-lite.php:7002
+msgid "Categories:"
+msgstr "Категории:"
+
+#: languages/seedprod-lite.php:7014
+msgid "Access Control"
+msgstr "Контроль доступа"
+
+#: languages/seedprod-lite.php:7017
+msgid "Exclude Default:"
+msgstr "Исключать по умолчанию:"
+
+#: languages/seedprod-lite.php:7023
+msgid "Bypass Cookie:"
+msgstr "Обходить cookie:"
+
+#: languages/seedprod-lite.php:7029
+msgid "Bypass URL:"
+msgstr "URL обхода:"
+
+#: languages/seedprod-lite.php:7032
+msgid "Bypass URL Expires:"
+msgstr "Срок действия URL обхода:"
+
+#: languages/seedprod-lite.php:7035
+msgid "Access by IP:"
+msgstr "Доступ по IP:"
+
+#: languages/seedprod-lite.php:7038
+msgid "Access by Role:"
+msgstr "Доступ по роли:"
+
+#: languages/seedprod-lite.php:7041
+msgid "By default anyone logged in will see the regular website and not the coming soon page. To override this select Roles that will be given access to see the regular website."
+msgstr "По умолчанию любой пользователь, выполнивший вход, видит обычный сайт вместо страницы «Скоро открытие». Чтобы изменить это, выберите роли, которые получат доступ к обычному сайту."
+
+#: languages/seedprod-lite.php:7044
+msgid "Include/Exclude URLs:"
+msgstr "Включение/исключение адресов URL:"
+
+#: languages/seedprod-lite.php:7047
+msgid "Show on the Entire Website"
+msgstr "Показывать на всем сайте"
+
+#: languages/seedprod-lite.php:7050
+msgid "Show on the Entire Website except for the Blog"
+msgstr "Показывать на всем сайте, кроме блога"
+
+#: languages/seedprod-lite.php:7053
+msgid "Show on the Home Page Only"
+msgstr "Показывать только на главной странице"
+
+#: languages/seedprod-lite.php:7056
+msgid "Include URLs"
+msgstr "Включить адреса URL"
+
+#: languages/seedprod-lite.php:7059
+msgid "Exclude URLs"
+msgstr "Исключить адреса URL"
+
+#: languages/seedprod-lite.php:7062
+msgid "By default the Coming Soon/Maintenance page is shown on every page. Use the 'Show on the Home Page Only' option to only show on the home page. Alternatively Include or Exclude URLs."
+msgstr "По умолчанию страница «Скоро открытие» / «На обслуживании» отображается на всем сайте. Также можно выбрать «Показывать только на главной странице» или включить/исключить нужные URL."
+
+#: languages/seedprod-lite.php:7065
+msgid "Enter a phrase above and give your visitors a secret url that will allow them to bypass the Coming Soon page."
+msgstr "Введите фразу выше и предоставьте посетителям секретный URL для обхода страницы «Скоро открытие»."
+
+#: languages/seedprod-lite.php:7068
+msgid "After the bypass url expires the user will need to revisit the bypass url to regain access."
+msgstr "По истечении срока действия URL обхода пользователю нужно будет заново перейти по нему для получения доступа."
+
+#: languages/seedprod-lite.php:7071
+msgid "One IP Address per line"
+msgstr "Один IP-адрес на строку"
+
+#: languages/seedprod-lite.php:7077
+msgid "Put each IP on it's own line. Your current IP is:"
+msgstr "Указывайте каждый IP-адрес в новой строке. Ваш текущий IP-адрес:"
+
+#: languages/seedprod-lite.php:7080
+msgid "Add Role"
+msgstr "Добавить роль"
+
+#: languages/seedprod-lite.php:7083
+msgid "Include certain urls to display the Coming Soon or Maintenance Page."
+msgstr "Включите определенные URL, для которых будет отображаться страница «Скоро открытие» или «На обслуживании»."
+
+#: languages/seedprod-lite.php:7086
+msgid "One per line. You may also enter a page or post id."
+msgstr "Один элемент на строку. Также можно указать ID страницы или записи."
+
+#: languages/seedprod-lite.php:7089
+msgid "Exclude certain urls to display the Coming Soon or Maintenance Page."
+msgstr "Исключите определенные URL, для которых будет отображаться страница «Скоро открытие» или «На обслуживании»."
+
+#: languages/seedprod-lite.php:7092
+msgid "Example: /about-us/"
+msgstr "Пример: /about-us/"
+
+#: languages/seedprod-lite.php:7099
+msgid "Your Analytics settings are being managed by:"
+msgstr "Кто управляет вашими настройками аналитики:"
+
+#: languages/seedprod-lite.php:7102
+msgid "Edit Analytics Settings"
+msgstr "Изменить настройки аналитики"
+
+#: languages/seedprod-lite.php:7106
+msgid "Your SEO settings are being managed by:"
+msgstr "Кто управляет вашими настройками SEO:"
+
+#: languages/seedprod-lite.php:7109
+msgid "Install Google Analytics plugin:"
+msgstr "Установить плагин для Google Analytics:"
+
+#: languages/seedprod-lite.php:7112
+msgid "Install MonsterInsights"
+msgstr "Установить MonsterInsights"
+
+#: languages/seedprod-lite.php:7115
+msgid "Activate MonsterInsights"
+msgstr "Активировать MonsterInsights"
+
+#: languages/seedprod-lite.php:7118
+msgid "Install Analytics plugin:"
+msgstr "Установить плагин аналитики:"
+
+#: languages/seedprod-lite.php:7122
+msgid "Custom Domain"
+msgstr "Собственный домен"
+
+#: languages/seedprod-lite.php:7125
+msgid "Custom Domain:"
+msgstr "Собственный домен:"
+
+#: languages/seedprod-lite.php:7134
+msgid "Domain Name:"
+msgstr "Имя домена:"
+
+#: languages/seedprod-lite.php:7137
+msgid "Please enter your domain."
+msgstr "Укажите свой домен."
+
+#: languages/seedprod-lite.php:7140
+msgid "Click here to learn more"
+msgstr "Нажмите сюда, чтобы узнать больше"
+
+#: languages/seedprod-lite.php:7143
+msgid "how to map your custom domain."
+msgstr "маппинг собственного домена."
+
+#: languages/seedprod-lite.php:7146
+msgid "Force HTTPS"
+msgstr "Принудительно использовать HTTPS"
+
+#: languages/seedprod-lite.php:7149
+msgid "Only enable this if you have an SSL certificate installed and you wish to redirect users to https://"
+msgstr "Включайте эту функцию, только если у вас установлен сертификат SSL и вы хотите перенаправлять пользователей на https://"
+
+#: languages/seedprod-lite.php:7152
+msgid "Please enter a valid URL that will be pointed to this landing page, such as"
+msgstr "Введите действующий URL, который будет ссылаться на этот лендинг, например"
+
+#: languages/seedprod-lite.php:7155
+msgid "It should look something like, 'mynewdomain.com' or 'mynewdomain.com/coming-soon'"
+msgstr "Требуется формат «mynewdomain.com» или «mynewdomain.com/coming-soon»"
+
+#: languages/seedprod-lite.php:7158
+msgid "You can leave out the 'http://'. If you are using 'https://', turn on Force HTTPS below."
+msgstr "Часть «http://» можно не указывать. При использовании «https://» включите принудительное использование HTTPS ниже."
+
+#: languages/seedprod-lite.php:7161
+msgid "Page Title:"
+msgstr "Заголовок страницы:"
+
+#: languages/seedprod-lite.php:7165
+msgid "Page URL:"
+msgstr "URL страницы:"
+
+#: languages/seedprod-lite.php:7168
+msgid "Page Status:"
+msgstr "Статус страницы:"
+
+#: languages/seedprod-lite.php:7181
+msgid "Choose New Template:"
+msgstr "Выберите новый шаблон:"
+
+#: languages/seedprod-lite.php:7184
+msgid "Redirect Mode"
+msgstr "Режим переадресации"
+
+#: languages/seedprod-lite.php:7187
+msgid "Redirect URL: A temporary redirect (302 status) will be created to the url entered."
+msgstr "URL переадресации: для указанного URL будет создана временная переадресация (статус 302)."
+
+#: languages/seedprod-lite.php:7193
+msgid "Redirect URL: A permanent redirect (301 status) will be created to the url entered."
+msgstr "URL переадресации: для указанного URL будет создана постоянная переадресация (статус 301)."
+
+#: languages/seedprod-lite.php:7196
+msgid "SeedProd Link"
+msgstr "Ссылка на SeedProd"
+
+#: languages/seedprod-lite.php:7199
+msgid "Enter Your Affiliate URL and Make Money with SeedProd"
+msgstr "Введите URL партнера и начните зарабатывать с помощью SeedProd"
+
+#: languages/seedprod-lite.php:7202
+msgid "Join our affiliate program"
+msgstr "Присоединяйтесь к нашей партнерской программе"
+
+#: languages/seedprod-lite.php:7205
+msgid "and get a 20% commission on all sales generated from your powered by link."
+msgstr "и получайте комиссионные в размере 20% за все продажи, сгенерированные по вашей ссылке."
+
+#: languages/seedprod-lite.php:7208
+msgid "Isolation Mode"
+msgstr "Режим изоляции"
+
+#: languages/seedprod-lite.php:7211
+msgid "Redirect the Default Login Page"
+msgstr "Перенаправление страницы входа по умолчанию"
+
+#: languages/seedprod-lite.php:7214
+msgid "Facebook App ID:"
+msgstr "Facebook App ID:"
+
+#: languages/seedprod-lite.php:7233
+msgid "SEO"
+msgstr "SEO"
+
+#: languages/seedprod-lite.php:7236
+msgid "Edit this page's SEO Settings"
+msgstr "Изменить настройки SEO этой страницы"
+
+#: languages/seedprod-lite.php:7242
+msgid "Activate All in One SEO"
+msgstr "Активировать All in One SEO"
+
+#: languages/seedprod-lite.php:7254
+msgid "Install SEO plugin:"
+msgstr "Установить плагин SEO:"
+
+#: languages/seedprod-lite.php:7282
+msgid "This code will be rendered before the closing &lt;/head&gt; tag."
+msgstr "Код будет отображен до метки закрытия &lt;/head&gt;."
+
+#: languages/seedprod-lite.php:7288
+msgid "The code will be rendered before the closing &lt;/body&gt; tag."
+msgstr "Код будет отображен до метки закрытия &lt;/body&gt;."
+
+#: languages/seedprod-lite.php:7291
+msgid "Body Scripts:"
+msgstr "Скрипты основной части:"
+
+#: languages/seedprod-lite.php:7294
+msgid "The code will be rendered after the &lt;body&gt; tag."
+msgstr "Код будет отображен после метки &lt;body&gt;."
+
+#: languages/seedprod-lite.php:7297
+msgid "You do not have the proper WordPress permissions to add scripts."
+msgstr "У вас нет разрешений WordPress для добавления скриптов."
+
+#: languages/seedprod-lite.php:7309
+msgid "You have unsaved changes. Are you sure you want to lose these changes?"
+msgstr "У вас есть несохраненные изменения. Отменить их?"
+
+#: languages/seedprod-lite.php:7312
+msgid "Exit Without Saving"
+msgstr "Выйти без сохранения"
+
+#: languages/seedprod-lite.php:7315
+msgid "template has been saved!"
+msgstr "сохранен как шаблон!"
+
+#: languages/seedprod-lite.php:7318
+msgid "You can find it in your template library when you create a new landing page."
+msgstr "Его можно будет найти в библиотеке шаблонов при создании нового лендинга."
+
+#: languages/seedprod-lite.php:7321
+msgid "Enter a new template name:"
+msgstr "Введите имя для нового шаблона:"
+
+#: languages/seedprod-lite.php:7324
+msgid "Your page has been published!"
+msgstr "Ваша страница опубликована!"
+
+#: languages/seedprod-lite.php:7336
+msgid "Return to Page Editor"
+msgstr "Вернуться в редактор страниц"
+
+#: languages/seedprod-lite.php:7339
+msgid "See Live Page"
+msgstr "Посмотреть активную страницу"
+
+#: languages/seedprod-lite.php:7342
+msgid "Save and Exit"
+msgstr "Сохранить и выйти"
+
+#: languages/seedprod-lite.php:7351
+msgid "You are about to leave this page and go to the Global CSS page. Continue?"
+msgstr "Вы покинете эту страницу и перейдете на страницу глобального CSS. Продолжить?"
+
+#: languages/seedprod-lite.php:7354
+msgid "This page is not active. Would you like to activate it now?"
+msgstr "Ваша страница неактивна. Активировать ее?"
+
+#: languages/seedprod-lite.php:7357
+msgid "Yes, Activate"
+msgstr "Да, активировать"
+
+#: languages/seedprod-lite.php:7360
+msgid "No, Close"
+msgstr "Нет, закрыть"
+
+#: languages/seedprod-lite.php:7363
+msgid "Coming Soon Mode is not active. Would you like to activate it now and show this page to visitors?"
+msgstr "Режим «Скоро открытие» отключен. Активировать его и показать эту страницу посетителям?"
+
+#: languages/seedprod-lite.php:7366
+msgid "Maintenance Mode is not active. Would you like to activate it now and show this page to visitors?"
+msgstr "Режим «На обслуживании» отключен. Активировать его и показать эту страницу посетителям?"
+
+#: languages/seedprod-lite.php:7369
+msgid "Note: This page will only be shown to users who are logged out. If you logged out and and do not see the correct page you may need to clear your site cache."
+msgstr "Обратите внимание: эта страница отображается только для пользователей, не выполнивших вход. Если вы вышли из системы и не видите нужную страницу, попробуйте очистить кэш сайта."
+
+#: languages/seedprod-lite.php:7372
+msgid "This page is not published. Would you like to publish it now?"
+msgstr "Страница не опубликована. Опубликовать ее сейчас?"
+
+#: languages/seedprod-lite.php:7375
+msgid "Yes, Publish"
+msgstr "Да, опубликовать"
+
+#: languages/seedprod-lite.php:7411
+msgid "Something has prevented the page from being saved."
+msgstr "Что-то помешало сохранению страницы."
+
+#: languages/seedprod-lite.php:7426
+msgid "Video Background"
+msgstr "Фоновое видео"
+
+#: languages/seedprod-lite.php:7429
+msgid "&larr; Go Back"
+msgstr "&larr; Назад"
+
+#: languages/seedprod-lite.php:7432
+msgid "&larr; Go to Dashboard"
+msgstr "&larr; К консоли"
+
+#: languages/seedprod-lite.php:7435
+msgid "Choose a New Page Template"
+msgstr "Выберите шаблон для новой страницы"
+
+#: languages/seedprod-lite.php:7438
+msgid "No Favorited Templates Found"
+msgstr "Избранные шаблоны не найдены"
+
+#: languages/seedprod-lite.php:7441
+msgid "No Saved Templates Found"
+msgstr "Сохраненные шаблоны не найдены"
+
+#: languages/seedprod-lite.php:7444
+msgid "Choose This Template"
+msgstr "Выбрать этот шаблон"
+
+#: languages/seedprod-lite.php:7447
+msgid "Enter your new page details"
+msgstr "Введите данные для новой страницы"
+
+#: languages/seedprod-lite.php:7450
+msgid "You can always change it later in Page Settings."
+msgstr "Их всегда можно изменить в настройках страницы."
+
+#: languages/seedprod-lite.php:7453
+msgid "Page Name:"
+msgstr "Название страницы:"
+
+#: languages/seedprod-lite.php:7456
+msgid "Save and Start Editing the Page"
+msgstr "Сохранить и начать редактирование"
+
+#: languages/seedprod-lite.php:7459
+msgid "My Landing Page name goes here"
+msgstr "Здесь будет название моего лендинга"
+
+#: languages/seedprod-lite.php:7462
+msgid "You can favorite any template by clicking the heart icon under the page template."
+msgstr "Любой шаблон можно добавить в избранное, нажав на сердечко под шаблоном страницы."
+
+#: languages/seedprod-lite.php:7465
+msgid "You can save pages as templates in the builder. Any saved pages will be shown here."
+msgstr "В конструкторе можно сохранять страницы в качестве шаблонов. Все сохраненные страницы будут показаны здесь."
+
+#: languages/seedprod-lite.php:191
+msgid "We're sorry, the "
+msgstr "К сожалению, "
+
+#: languages/seedprod-lite.php:6667
+msgid "Upgrade to Unlock "
+msgstr "Чтобы открыть, смените план "
+
+#: languages/seedprod-lite.php:6328
+msgid "Light"
+msgstr "Светлая"
+
+#: languages/seedprod-lite.php:179
+msgid "Upgrade to PRO"
+msgstr "Перейти на PRO"
+
+#: languages/seedprod-lite.php:2649
+msgid "Scale"
+msgstr "Шкала"
+
+#: languages/seedprod-lite.php:4107
+msgid "One Column"
+msgstr "Одна колонка"
+
+#: languages/seedprod-lite.php:4390
+msgid "Rating"
+msgstr "Оценка"
+
+#: languages/seedprod-lite.php:4444
+msgid "Image Border Color"
+msgstr "Цвет границы изображения"
+
+#: languages/seedprod-lite.php:4481
+msgid "Random"
+msgstr "В случайном порядке"
+
+#: languages/seedprod-lite.php:4561
+msgid "Show Buy Button"
+msgstr "Показать кнопку «Купить»"
+
+#: languages/seedprod-lite.php:5393
+msgid "seconds"
+msgstr "сек."
+
+#: languages/seedprod-lite.php:5535
+msgid "Navigation Color"
+msgstr "Цвет навигации"
+
+#: languages/seedprod-lite.php:5568
+msgid "Post"
+msgstr "Публикация"
+
+#: languages/seedprod-lite.php:5784
+msgid "Block"
+msgstr "Блокировка"
+
+#: languages/seedprod-lite.php:5873
+msgid "View"
+msgstr "Открыть"
+
+#: languages/seedprod-lite.php:5876
+msgid "Table"
+msgstr "Столик"
+
+#: languages/seedprod-lite.php:5881
+msgid "Stacked"
+msgstr "Собранный"
+
+#: languages/seedprod-lite.php:5884
+msgid "Inline"
+msgstr "На одной строке"
+
+#: languages/seedprod-lite.php:5890
+msgid "Sale Price"
+msgstr "Цена по акции"
+
+#: languages/seedprod-lite.php:5909
+msgid "Percent"
+msgstr "Проценты"
+
+#: languages/seedprod-lite.php:5984
+msgid "Column Gutter"
+msgstr "Интервал между столбцами"
+
+#: languages/seedprod-lite.php:5991
+msgid "Full Screen"
+msgstr "Во весь экран"
+
+#: languages/seedprod-lite.php:5999
+msgid "Content Width"
+msgstr "Ширина контента"
+
+#: languages/seedprod-lite.php:6050
+msgid "Spread"
+msgstr "Размах"
+
+#: languages/seedprod-lite.php:6153
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#: languages/seedprod-lite.php:6316
+msgid "Select Type"
+msgstr "Выберите тип"
+
+#: languages/seedprod-lite.php:6325
+msgid "Dark"
+msgstr "Тёмный"
+
+#: languages/seedprod-lite.php:6358
+msgid "Letter Spacing"
+msgstr "Интервал между буквами"
+
+#: languages/seedprod-lite.php:6579
+msgid "Limit"
+msgstr "Ограничение"
+
+#: languages/seedprod-lite.php:6588
+msgid "On Sale"
+msgstr "По акции"
+
+#: languages/seedprod-lite.php:6594
+msgid "Top Rated"
+msgstr "С максимальным рейтингом"
+
+#: languages/seedprod-lite.php:6800
+msgid "Body Text Color"
+msgstr "Цвет основного текста"
+
+#: languages/seedprod-lite.php:6986
+msgid "ago"
+msgstr "назад"
+
+#: languages/seedprod-lite.php:6999
+msgid "Favorites"
+msgstr "Избранное"
+
+#: languages/seedprod-lite.php:7128
+msgid "OFF"
+msgstr "ВЫКЛ."
+
+#: languages/seedprod-lite.php:7131
+msgid "ON"
+msgstr "ВКЛ."
+
+#: languages/seedprod-lite.php:7175
+msgid "Publish"
+msgstr "Публикация"
+
+#: languages/seedprod-lite.php:7327
+msgid "Unpublish"
+msgstr "Отменить публикацию"
+
+#: languages/seedprod-lite.php:7330
+msgid "Schedule"
+msgstr "Расписание"
+
+#: languages/seedprod-lite.php:7414
+msgid "Standard"
+msgstr "Стандартный"
+
+#: app/functions-utils.php:612
+msgid "Gallery"
+msgstr "Галерея"
+
+#: app/routes.php:101 app/routes.php:102
+msgid "Pop-ups"
+msgstr "Всплывающие окна"
+
+#: languages/seedprod-lite.php:864
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: app/functions-utils.php:253 languages/seedprod-lite.php:5822
+msgid "Tabs"
+msgstr "Вкладки"
+
+#: app/functions-utils.php:601
+msgid "Advanced Gallery"
+msgstr "Расширенная галерея"
+
+#: app/functions-utils.php:623
+msgid "Business Hours"
+msgstr "Часы работы"
+
+#: languages/seedprod-lite.php:3371
+msgid "Row"
+msgstr "Строка"
+
+#: app/bootstrap.php:254 languages/seedprod-lite.php:361
+#: resources/views/seedprod-preview.php:66
+msgid "Loading"
+msgstr "Загрузка"
+
+#: languages/seedprod-lite.php:1492
+msgid "Left"
+msgstr "Слева"
+
+#: languages/seedprod-lite.php:1470
+msgid "Right"
+msgstr "Справа"
+
+#: languages/seedprod-lite.php:2188
+msgid "Gradient"
+msgstr "Градиент"
+
+#: languages/seedprod-lite.php:2924
+msgid "Auto"
+msgstr "Авто"
+
+#: languages/seedprod-lite.php:2542
+msgid "Hide"
+msgstr "Скрыть"
+
+#: languages/seedprod-lite.php:1184
+msgid "Vertical"
+msgstr "Вертикально"
+
+#: languages/seedprod-lite.php:319
+msgid "All"
+msgstr "Все"
+
+#: languages/seedprod-lite.php:2552
+msgid "Style"
+msgstr "Стиль"
+
+#: languages/seedprod-lite.php:2468
+msgid "Color"
+msgstr "Цвет"
+
+#: languages/seedprod-lite.php:1097
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: languages/seedprod-lite.php:2197
+msgid "Normal"
+msgstr "Обычный"
+
+#: languages/seedprod-lite.php:3081
+msgid "Border"
+msgstr "Рамка"
+
+#: languages/seedprod-lite.php:348
+msgid "URL"
+msgstr "URL"
+
+#: languages/seedprod-lite.php:5259
+msgid "Comments"
+msgstr "Комментарии"
+
+#: languages/seedprod-lite.php:5056
+msgid "Hover Color"
+msgstr "Цвет при наведении"
+
+#: languages/seedprod-lite.php:1424
+msgid "Top"
+msgstr "Сверху"
+
+#: languages/seedprod-lite.php:5434
+msgid "Excerpt Length"
+msgstr "Длина отрывка"
+
+#: languages/seedprod-lite.php:4379
+msgid "Order"
+msgstr "Упорядочение"
+
+#: languages/seedprod-lite.php:5446
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: languages/seedprod-lite.php:236
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: languages/seedprod-lite.php:5092
+msgid "Menus"
+msgstr "Меню"
+
+#: languages/seedprod-lite.php:4573
+msgid "Search"
+msgstr "Поиск"
+
+#: languages/seedprod-lite.php:5256
+msgid "Author"
+msgstr "Автор"
+
+#: languages/seedprod-lite.php:3214
+msgid "Time"
+msgstr "Время"
+
+#: languages/seedprod-lite.php:322
+msgid "Published"
+msgstr "Опубликовано"
+
+#: languages/seedprod-lite.php:659
+msgid "No"
+msgstr "Нет"
+
+#: languages/seedprod-lite.php:4419
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: languages/seedprod-lite.php:5278
+msgid "Caption"
+msgstr "Подпись"
+
+#: languages/seedprod-lite.php:4751
+msgid "Apply"
+msgstr "Применить"
+
+#: languages/seedprod-lite.php:803
+msgid "Delete"
+msgstr "Удалить"
+
+#: languages/seedprod-lite.php:686
+msgid "Close"
+msgstr "Закрыть"
+
+#: languages/seedprod-lite.php:5281
+msgid "Date Format"
+msgstr "Формат даты"
+
+#: languages/seedprod-lite.php:5319
+msgid "Time Format"
+msgstr "Формат времени"
+
+#: languages/seedprod-lite.php:3775
+msgid "Height"
+msgstr "Высота"
+
+#: languages/seedprod-lite.php:3825
+msgid "Insert"
+msgstr "Вставить"
+
+#: languages/seedprod-lite.php:788
+msgid "All Pages"
+msgstr "Все страницы"
+
+#: languages/seedprod-lite.php:1163
+msgid "Styles"
+msgstr "Стили"
+
+#: languages/seedprod-lite.php:1730
+msgid "Large"
+msgstr "Большой"
+
+#: languages/seedprod-lite.php:3847
+msgid "Today"
+msgstr "Сегодня"
+
+#: languages/seedprod-lite.php:3010
+msgid "Image Size"
+msgstr "Размер изображения"
+
+#: languages/seedprod-lite.php:3627
+msgid "Hours"
+msgstr "Часы"
+
+#: languages/seedprod-lite.php:356
+msgid "Date"
+msgstr "Дата"
+
+#: languages/seedprod-lite.php:3859
+msgid "Month"
+msgstr "Месяц"
+
+#: languages/seedprod-lite.php:3630
+msgid "Minutes"
+msgstr "Минуты"
+
+#: languages/seedprod-lite.php:5316
+msgid "Terms"
+msgstr "Термины"
+
+#: languages/seedprod-lite.php:3349
+msgid "Display"
+msgstr "Отображение"
+
+#: languages/seedprod-lite.php:1688
+msgid "Medium"
+msgstr "Средний"
+
+#: languages/seedprod-lite.php:3792
+msgid "H1"
+msgstr "H1"
+
+#: languages/seedprod-lite.php:3798
+msgid "H2"
+msgstr "H2"
+
+#: languages/seedprod-lite.php:3804
+msgid "H3"
+msgstr "H3"
+
+#: languages/seedprod-lite.php:3810
+msgid "H4"
+msgstr "H4"
+
+#: languages/seedprod-lite.php:2490
+msgid "H5"
+msgstr "H5"
+
+#: languages/seedprod-lite.php:2498
+msgid "H6"
+msgstr "H6"
+
+#: languages/seedprod-lite.php:2267
+msgid "Position"
+msgstr "Позиция"
+
+#: languages/seedprod-lite.php:1523
+msgid "Shadow"
+msgstr "Тень"
+
+#: languages/seedprod-lite.php:334
+msgid "Restore"
+msgstr "Восстановить"
+
+#: languages/seedprod-lite.php:3016
+msgid "Header Text"
+msgstr "Текст заголовка"
+
+#: languages/seedprod-lite.php:487
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: languages/seedprod-lite.php:3589
+msgid "Timezone"
+msgstr "Часовой пояс"
+
+#: languages/seedprod-lite.php:4948
+msgid "Link Hover Color"
+msgstr "Цвет ссылки при наведении"
+
+#: languages/seedprod-lite.php:1226
+msgid "Spacing"
+msgstr "Интервал"
+
+#: languages/seedprod-lite.php:2229
+msgid "Link"
+msgstr "Ссылка"
+
+#: languages/seedprod-lite.php:1843
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: languages/seedprod-lite.php:2083
+msgid "Button Style"
+msgstr "Стиль кнопки"
+
+#: languages/seedprod-lite.php:3379
+msgid "Center"
+msgstr "По центру"
+
+#: languages/seedprod-lite.php:5086
+msgid "Sub Menu"
+msgstr "Подменю"
+
+#: languages/seedprod-lite.php:1332
+msgid "Divider Color"
+msgstr "Цвет разделителя"
+
+#: languages/seedprod-lite.php:4235
+msgid "Title Color"
+msgstr "Цвет заголовка"
+
+#: languages/seedprod-lite.php:4982
+msgid "Colors"
+msgstr "Цвета"
+
+#: languages/seedprod-lite.php:1400
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+#: languages/seedprod-lite.php:1867
+msgid "Size"
+msgstr "Размер"
+
+#: languages/seedprod-lite.php:5263
+msgid "Avatar"
+msgstr "Аватар"
+
+#: languages/seedprod-lite.php:1923
+msgid "Icons"
+msgstr "Значки"
+
+#: languages/seedprod-lite.php:2412
+msgid "Title Font Size"
+msgstr "Размер шрифта заголовка"
+
+#: languages/seedprod-lite.php:3027
+msgid "Label Color"
+msgstr "Цвет этикетки"
+
+#: languages/seedprod-lite.php:5340
+msgid "Posts Query"
+msgstr "Запрос записей"
+
+#: languages/seedprod-lite.php:2899
+msgid "Attachment"
+msgstr "Вложение"
+
+#: languages/seedprod-lite.php:2965
+msgid "Overlay Color"
+msgstr "Цвет наложения"
+
+#: languages/seedprod-lite.php:4711
+msgid "or"
+msgstr "или"
+
+#: languages/seedprod-lite.php:5047
+msgid "Mobile Menu"
+msgstr "Мобильное меню"
+
+#: languages/seedprod-lite.php:5309
+msgid "Tags"
+msgstr "Метки"
+
+#: languages/seedprod-lite.php:2949
+msgid "Width"
+msgstr "Ширина"
+
+#: languages/seedprod-lite.php:5105
+msgid "There are no menus in your site."
+msgstr "На вашем сайте нет меню."
+
+#: languages/seedprod-lite.php:4161
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+#: languages/seedprod-lite.php:888
+msgid "Default"
+msgstr "По умолчанию"
+
+#: languages/seedprod-lite.php:3706
+msgid "Expand Editor"
+msgstr "Развернуть редактор"
+
+#: languages/seedprod-lite.php:3730
+msgid "Static"
+msgstr "Статический"
+
+#: languages/seedprod-lite.php:4399
+msgid "Menu Order"
+msgstr "Порядок меню"
+
+#: languages/seedprod-lite.php:2154
+msgid "Button Text Color"
+msgstr "Цвет текста кнопки"
+
+#: languages/seedprod-lite.php:3761
+msgid "Double"
+msgstr "Двойная"
+
+#: languages/seedprod-lite.php:3639
+msgid "Restart"
+msgstr "Перезапуск"
+
+#: languages/seedprod-lite.php:3727
+msgid "Z-Index"
+msgstr "Z-индекс"
+
+#: languages/seedprod-lite.php:4405
+msgid "ASC"
+msgstr "По возрастанию"
+
+#: languages/seedprod-lite.php:4411
+msgid "DESC"
+msgstr "По убыванию"
+
+#: languages/seedprod-lite.php:2432
+msgid "h1"
+msgstr "h1"
+
+#: languages/seedprod-lite.php:2436
+msgid "h2"
+msgstr "h2"
+
+#: languages/seedprod-lite.php:2440
+msgid "h3"
+msgstr "h3"
+
+#: languages/seedprod-lite.php:2444
+msgid "h4"
+msgstr "h4"
+
+#: languages/seedprod-lite.php:620
+msgid "Enable Usage Tracking"
+msgstr "Включить отслеживание использования"
+
+#: languages/seedprod-lite.php:5349
+msgid "Query By Post Type"
+msgstr "Запрос по типу записи"
+
+#: languages/seedprod-lite.php:3715
+msgid "Device Visibility"
+msgstr "Видимость на устройствах"
+
+#: languages/seedprod-lite.php:3758
+msgid "Solid Line"
+msgstr "Сплошная линия"
+
+#: languages/seedprod-lite.php:5404
+msgid "Query Params"
+msgstr "Параметры запроса"
+
+#: languages/seedprod-lite.php:731
+msgid "Edit Theme"
+msgstr "Изменить тему"
+
+#: languages/seedprod-lite.php:3782
+msgid "Add Element"
+msgstr "Добавить элемент"
+
+#: languages/seedprod-lite.php:785
+msgid "Subscribers Overview"
+msgstr "Обзор подписчиков"
+
+#: languages/seedprod-lite.php:2577
+msgid "Insert Dynamic Text"
+msgstr "Вставить динамический текст"
+
+#: languages/seedprod-lite.php:764
+msgid "Export to CSV"
+msgstr "Экспорт в CSV"
+
+#: languages/seedprod-lite.php:3822
+msgid "Please select date/time format"
+msgstr "Выберите формат даты/времени"
+
+#: languages/seedprod-lite.php:3721
+msgid "Hide on Mobile"
+msgstr "Скрывать на мобильном"
+
+#: languages/seedprod-lite.php:667
+msgid "Saved!"
+msgstr "Сохранено!"
+
+#: languages/seedprod-lite.php:3665
+msgid "Separator"
+msgstr "Разделитель"
+
+#: languages/seedprod-lite.php:5218
+msgid "div"
+msgstr "div"
+
+#: languages/seedprod-lite.php:5449
+msgid "Excerpt Color"
+msgstr "Цвет отрывка"
+
+#: languages/seedprod-lite.php:5343
+msgid "Query Type"
+msgstr "Тип запроса"
+
+#: languages/seedprod-lite.php:5358
+msgid "Query By Category"
+msgstr "Запрос по категории"
+
+#: languages/seedprod-lite.php:4554
+msgid "Include Selected Categories"
+msgstr "Включать выбранные категории"
+
+#: languages/seedprod-lite.php:4501
+msgid "- Select Categories -"
+msgstr "- Выберите категории -"
+
+#: languages/seedprod-lite.php:5370
+msgid "Query By Author(s)"
+msgstr "Запрос по авторам"
+
+#: languages/seedprod-lite.php:5373
+msgid "Include Selected Author(s)"
+msgstr "Включать выбранных авторов"
+
+#: languages/seedprod-lite.php:5376
+msgid "- Select Author(s) -"
+msgstr "- Выберите авторов -"
+
+#: languages/seedprod-lite.php:4460
+msgid "- Select Options -"
+msgstr "- Выберите варианты -"
+
+#: languages/seedprod-lite.php:5379
+msgid "Date Last Modified"
+msgstr "Дата последнего изменения"
+
+#: languages/seedprod-lite.php:5413
+msgid "Show Title"
+msgstr "Показать заголовок"
+
+#: languages/seedprod-lite.php:2425
+msgid "Title Tag"
+msgstr "Метка заголовка"
+
+#: languages/seedprod-lite.php:5223
+msgid "p"
+msgstr "p"
+
+#: languages/seedprod-lite.php:5437
+msgid "Show Read More"
+msgstr "Показывать ссылку «Читать дальше»"
+
+#: languages/seedprod-lite.php:5440
+msgid "Meta Text"
+msgstr "Метатекст"
+
+#: languages/seedprod-lite.php:5455
+msgid "Read More Text Color"
+msgstr "Цвет текста ссылки «Читать дальше»"
+
+#: languages/seedprod-lite.php:3130
+msgid "Dashed"
+msgstr "Пунктир"
+
+#: languages/seedprod-lite.php:1604
+msgid "Hairline"
+msgstr "Соединительный штрих"
+
+#: languages/seedprod-lite.php:1770
+msgid "X Large"
+msgstr "XL"
+
+#: languages/seedprod-lite.php:1809
+msgid "2X Large"
+msgstr "XXL"
+
+#: languages/seedprod-lite.php:4289
+msgid "Bottom Drop Shadow"
+msgstr "Тень снизу"
+
+#: languages/seedprod-lite.php:4300
+msgid "Image Whitespace Padding"
+msgstr "Внутренний отступ пустого пространства на изображении"
+
+#: languages/seedprod-lite.php:3329
+msgid "Layout"
+msgstr "Макет"
+
+#: languages/seedprod-lite.php:5352
+msgid "Include Selected Post Type(s)"
+msgstr "Включать выбранные типы записей"
+
+#: languages/seedprod-lite.php:5355
+msgid "- Select Post Type(s) -"
+msgstr "- Выберите типы записей -"
+
+#: languages/seedprod-lite.php:5361
+msgid "Query By Tag(s)"
+msgstr "Запрос по меткам"
+
+#: languages/seedprod-lite.php:5364
+msgid "Include Selected Tag(s)"
+msgstr "Включать выбранные метки"
+
+#: languages/seedprod-lite.php:5367
+msgid "- Select Tag(s) -"
+msgstr "- Выберите метки -"
+
+#: languages/seedprod-lite.php:207
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#: languages/seedprod-lite.php:5129
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: languages/seedprod-lite.php:773
+msgid "Days"
+msgstr "Дни"
+
+#: languages/seedprod-lite.php:3880
+msgid "Default Value"
+msgstr "Значение по умолчанию"
+
+#: languages/seedprod-lite.php:5586
+msgid "Enter Title"
+msgstr "Введите заголовок"
+
+#: languages/seedprod-lite.php:4957
+msgid "Field Size"
+msgstr "Размер поля"
+
+#: languages/seedprod-lite.php:3961
+msgid "Field Width"
+msgstr "Ширина поля"
+
+#: languages/seedprod-lite.php:3897
+msgid "Fields"
+msgstr "Поля"
+
+#: languages/seedprod-lite.php:3467
+msgid "Form"
+msgstr "Форма"
+
+#: languages/seedprod-lite.php:1197
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: languages/seedprod-lite.php:2638
+msgid "Level"
+msgstr "Уровень"
+
+#: languages/seedprod-lite.php:5020
+msgid "Margin"
+msgstr "Внешний отступ"
+
+#: languages/seedprod-lite.php:830
+msgid "No Templates Found"
+msgstr "Шаблоны не найдены"
+
+#: languages/seedprod-lite.php:3742
+msgid "Offset"
+msgstr "Смещение"
+
+#: languages/seedprod-lite.php:5050
+msgid "On"
+msgstr "Вкл"
+
+#: languages/seedprod-lite.php:3609
+msgid "Redirect URL"
+msgstr "URL перенаправления"
+
+#: languages/seedprod-lite.php:3633
+msgid "Seconds"
+msgstr "Секунды"
+
+#: languages/seedprod-lite.php:3596
+msgid "Show Message"
+msgstr "Показать сообщение"
+
+#: languages/seedprod-lite.php:1391
+msgid "Text Shadow"
+msgstr "Тень текста"
+
+#: languages/seedprod-lite.php:2115
+msgid "2D"
+msgstr "2D"
+
+#: languages/seedprod-lite.php:5274
+msgid "Add Item"
+msgstr "Добавить элемент"
+
+#: languages/seedprod-lite.php:4683
+msgid "All Icons"
+msgstr "Все значки"
+
+#: languages/seedprod-lite.php:46
+msgid "Changes not saved, are you sure you want to leave?"
+msgstr "Изменения не сохранены, выйти?"
+
+#: languages/seedprod-lite.php:53
+msgid "Getting Started"
+msgstr "Начало работы"
+
+#: languages/seedprod-lite.php:56
+msgid "Lite vs Pro"
+msgstr "Lite против Pro"
+
+#: languages/seedprod-lite.php:62
+msgid "the most popular lead-generation software"
+msgstr "самое популярное ПО для генерации лидов"
+
+#: languages/seedprod-lite.php:65
+msgid "the best WordPress analytics plugin"
+msgstr "лучший плагин аналитики для WordPress"
+
+#: languages/seedprod-lite.php:68
+msgid "the best WordPress forms plugin"
+msgstr "лучший плагин форм для WordPress"
+
+#: languages/seedprod-lite.php:71
+msgid "the best WordPress giveaway plugin"
+msgstr "лучший плагин розыгрышей для WordPress"
+
+#: languages/seedprod-lite.php:74
+msgid "and finally the best WordPress FOMO plugin"
+msgstr "и лучший плагин FOMO для WordPress"
+
+#: languages/seedprod-lite.php:77
+msgid "SeedProd Team photo"
+msgstr "Фото команды SeedProd"
+
+#: languages/seedprod-lite.php:80
+msgid "The SeedProd Team"
+msgstr "Команда SeedProd"
+
+#: languages/seedprod-lite.php:83
+msgid "Hello and welcome to SeedProd, the most beginner friendly drag & drop WordPress landing page plugin. At SeedProd, we build software that helps you create beautiful responsive landing pages for your website in minutes."
+msgstr "Приветствуем вас! Добро пожаловать в SeedProd, самый простой и удобный плагин лендингов для WordPress. SeedProd разрабатывает ПО, которое позволит за считанные минуты создать красивый адаптивный лендинг для вашего сайта."
+
+#: languages/seedprod-lite.php:86
+msgid "Over the years, we found that most WordPress landing page plugins were bloated, buggy, slow, and very hard to use. So we started with a simple goal: build a WordPress landing page plugin that’s both easy and powerful."
+msgstr "За годы работы мы выяснили, что большинство плагинов WordPress для лендингов были раздутыми, медленными, слишком сложными в использовании и часто давали сбои. У нас сразу была простая цель: создать удобный и эффективный плагин лендингов для WordPress."
+
+#: languages/seedprod-lite.php:89
+msgid "Our goal is to take the pain out of creating landing pages and make it easy."
+msgstr "Наша цель — сделать создание лендингов проще и удобнее."
+
+#: languages/seedprod-lite.php:92
+msgid "SeedProd is brought to you by the same team that’s behind the largest WordPress resource site,"
+msgstr "SeedProd разрабатывается командой, создавшей самый крупный сайт с ресурсами для WordPress"
+
+#: languages/seedprod-lite.php:125
+msgid "SeedProd Logo"
+msgstr "Логотип SeedProd"
+
+#: languages/seedprod-lite.php:128
+msgid "Previous message "
+msgstr "Предыдущее сообщение "
+
+#: languages/seedprod-lite.php:131
+msgid "Next message"
+msgstr "Следующее сообщение"
+
+#: languages/seedprod-lite.php:143
+msgid "Theme Template Kit Chooser"
+msgstr "Наборы с шаблонами тем на выбор"
+
+#: languages/seedprod-lite.php:210
+msgid "Yes, empty trash!"
+msgstr "Да, очистить корзину!"
+
+#: languages/seedprod-lite.php:213
+msgid "Pages Deleted!"
+msgstr "Страницы удалены!"
+
+#: languages/seedprod-lite.php:216
+msgid "Page Duplicated"
+msgstr "Страница дублирована"
+
+#: languages/seedprod-lite.php:219
+msgid "Coming Soon Mode"
+msgstr "Режим «Скоро открытие»"
+
+#: languages/seedprod-lite.php:222
+msgid "Search Landing Pages"
+msgstr "Поиск лендингов"
+
+#: languages/seedprod-lite.php:225
+msgid "The Coming Soon Page will be available to search engines if your site is not private."
+msgstr "Страница «Скоро открытие» будет доступна для поисковых систем, если ваш сайт не является закрытым."
+
+#: languages/seedprod-lite.php:228
+msgid "Set up a Coming Soon Page"
+msgstr "Настроить страницу «Скоро открытие»"
+
+#: languages/seedprod-lite.php:247
+msgid "Maintenance Mode"
+msgstr "Режим «На обслуживании»"
+
+#: languages/seedprod-lite.php:250
+msgid "The Maintenance Mode Page will notify search engines that the site is unavailable."
+msgstr "Страница «На обслуживании» уведомляет поисковые системы о том, что сайт недоступен."
+
+#: languages/seedprod-lite.php:253
+msgid "Set up a Maintenance Mode Page"
+msgstr "Настроить страницу «На обслуживании»"
+
+#: languages/seedprod-lite.php:260
+msgid "Replace your default theme 404 page with a custom high converting 404 page."
+msgstr "Замените стандартную тему страницы 404 на собственную с высокой конверсией."
+
+#: languages/seedprod-lite.php:263
+msgid "Set up a 404 Page"
+msgstr "Настроить страницу «404»"
+
+#: languages/seedprod-lite.php:270
+msgid "Add New Landing Page"
+msgstr "Добавить лендинг"
+
+#: languages/seedprod-lite.php:282
+msgid "Last Modified"
+msgstr "Последнее изменение"
+
+#: languages/seedprod-lite.php:285
+msgid "You do not have any landing pages yet."
+msgstr "У вас пока нет лендингов."
+
+#: languages/seedprod-lite.php:288
+msgid "Create New Landing Page"
+msgstr "Создать новый лендинг"
+
+#: languages/seedprod-lite.php:291
+msgid "SeedProd Coming Soon Page"
+msgstr "Страница SeedProd «Скоро открытие»"
+
+#: languages/seedprod-lite.php:294
+msgid "SeedProd Maintenance Page"
+msgstr "Страница SeedProd «На обслуживании»"
+
+#: languages/seedprod-lite.php:297
+msgid "SeedProd 404 Page"
+msgstr "Страница SeedProd «404»"
+
+#: languages/seedprod-lite.php:300
+msgid "Create Optin, Sales, Webinar, Thank You or any type of Landing Page you need."
+msgstr "Создавайте страницы подтверждения подписки, страницы продаж, вебинаров, благодарностей и любые необходимые вам лендинги."
+
+#: languages/seedprod-lite.php:304
+msgid "Login Page"
+msgstr "Страница входа"
+
+#: languages/seedprod-lite.php:307
+msgid "Create a Custom Login Page for your website. Optionally replace the default login page."
+msgstr "Создайте собственную страницу входа для своего сайта и замените страницу входа по умолчанию, если это необходимо."
+
+#: languages/seedprod-lite.php:310
+msgid "Set up a Login Page"
+msgstr "Настроить страницу входа"
+
+#: languages/seedprod-lite.php:313
+msgid "SeedProd Login Page"
+msgstr "Страница входа SeedProd"
+
+#: languages/seedprod-lite.php:325
+msgid "Drafts"
+msgstr "Черновики"
+
+#: languages/seedprod-lite.php:331
+msgid "Move To Trash"
+msgstr "Переместить в корзину"
+
+#: languages/seedprod-lite.php:364
+msgid "Pages Moved to Trash."
+msgstr "Страницы перемещены в корзину."
+
+#: languages/seedprod-lite.php:367
+msgid "Pages Restored."
+msgstr "Страницы восстановлены."
+
+#: languages/seedprod-lite.php:499
+msgid "PRO Version installed"
+msgstr "Установлена версия PRO"
+
+#: languages/seedprod-lite.php:541
+msgid "Get OptinMonster Now"
+msgstr "Установить OptinMonster"
+
+#: languages/seedprod-lite.php:544
+msgid "OptinMonster is Active - Go to Settings"
+msgstr "OptinMonster активирован — перейти в настройки"
+
+#: languages/seedprod-lite.php:547
+msgid "Activate OptinMonster"
+msgstr "Активировать OptinMonster"
+
+#: languages/seedprod-lite.php:550
+msgid "Activating OptinMonster"
+msgstr "Активация OptinMonster"
+
+#: languages/seedprod-lite.php:564
+msgid "Integrations"
+msgstr "Интеграции"
+
+#: languages/seedprod-lite.php:573
+msgid "You're using <strong>SeedProd Lite</strong> - No License needed. Enjoy!"
+msgstr "Вы используете <strong>SeedProd Lite</strong> — лицензия не требуется. Наслаждайтесь!"
+
+#: languages/seedprod-lite.php:576
+msgid "To unlock more features consider <a href='%s' target='_blank'>upgrading to PRO</a> . As a valued SeedProd Lite user you'll receive <strong>a discount off the regular price</strong>, automatically applied at checkout! "
+msgstr "Чтобы открыть больше функций, <a href='%s' target='_blank'>перейдите на план PRO</a>. Как важный пользователь SeedProd Lite вы автоматически получите <strong>скидку</strong> на этапе оплаты! "
+
+#: languages/seedprod-lite.php:579
+msgid "If you already have a license key for <a href='%s' target='_blank'>SeedProd Lite</a>, please enter it to Upgrade to the Pro Features. SeedProd.com will be used to verify and connect you to SeedProd."
+msgstr "Если у вас уже есть лицензионный ключ для <a href='%s' target='_blank'>SeedProd Lite</a>, введите его, чтобы перейти на план Pro. Для проверки и подключения к SeedProd используется SeedProd.com."
+
+#: languages/seedprod-lite.php:585
+msgid "Enter Your License Key Here"
+msgstr "Введите сюда лицензионный ключ"
+
+#: languages/seedprod-lite.php:588
+msgid "Recheck Key"
+msgstr "Повторно проверить ключ"
+
+#: languages/seedprod-lite.php:591
+msgid "Verify Key"
+msgstr "Проверка ключа"
+
+#: languages/seedprod-lite.php:594
+msgid "Deactivate Key"
+msgstr "Деактивировать ключ"
+
+#: languages/seedprod-lite.php:597
+msgid "Connect to SeedProd to Install the Pro Version"
+msgstr "Подключиться к SeedProd и установить версию Pro"
+
+#: languages/seedprod-lite.php:603
+msgid "Debug Information"
+msgstr "Отладочная информация"
+
+#: languages/seedprod-lite.php:606
+msgid "Facebook APP ID"
+msgstr "ID приложения Facebook"
+
+#: languages/seedprod-lite.php:663
+msgid "Could not be saved. Please contact Support if you continue to experience this issue."
+msgstr "Не удалось сохранить. Если проблема не исчезнет, обратитесь в службу поддержки."
+
+#: languages/seedprod-lite.php:670
+msgid "Looks like you don't have permission to save."
+msgstr "Похоже, у вас нет разрешения для сохранения данных."
+
+#: languages/seedprod-lite.php:673
+msgid "<h1 class='sp-text-2xl sp-text-neutral sp-m-0 sp-mb-4 sp-font-bold'>Template Setup Complete</h1>"
+msgstr "<h1 class='sp-text-2xl sp-text-neutral sp-m-0 sp-mb-4 sp-font-bold'>Настройка шаблона завершена</h1>"
+
+#: languages/seedprod-lite.php:676
+msgid "You can close this window and get started editing you page<br> or setup a new page."
+msgstr "Можно закрыть это окно и начать редактировать страницу<br> или настроить новую страницу."
+
+#: languages/seedprod-lite.php:689
+msgid "Click the button below to install and activate the following free plugins:"
+msgstr "Нажмите на кнопку ниже, чтобы установить и активировать следующие бесплатные плагины:"
+
+#: languages/seedprod-lite.php:692
+msgid "Install and Activate Plugins"
+msgstr "Установить и активировать плагины"
+
+#: languages/seedprod-lite.php:698
+msgid "<h1 class=\"sp-text-2xl sp-text-neutral sp-m-0 sp-mb-4 sp-font-bold\">Finishing Up!</h1><p class=\"sp-text-sm sp-text-neutral sp-font-normal\">Please do not refresh or exit this page<br>until this process is complete.<p>"
+msgstr "<h1 class=\"sp-text-2xl sp-text-neutral sp-m-0 sp-mb-4 sp-font-bold\">Осталось немного!</h1><p class=\"sp-text-sm sp-text-neutral sp-font-normal\">Не обновляйте и не закрывайте эту страницу,<br>пока процесс не будет завершен.<p>"
+
+#: languages/seedprod-lite.php:701
+msgid "Setup a Coming Soon Page"
+msgstr "Настройка страницы «Скоро открытие»"
+
+#: languages/seedprod-lite.php:704
+msgid "A Coming Soon Page will hide your site from public but you'll still be able to see it and work on it if logged in."
+msgstr "С помощью страницы «Скоро открытие» можно скрыть ваш сайт от других пользователей, при этом вы сможете просматривать его и работать над ним, выполнив вход в систему."
+
+#: languages/seedprod-lite.php:707
+msgid "Setup a Maintenance Page"
+msgstr "Настройка страницы «На обслуживании»"
+
+#: languages/seedprod-lite.php:710
+msgid "A Maintenance Page will notify search engines that the site is unavailable."
+msgstr "Страница «На обслуживании» уведомляет поисковые системы о том, что сайт недоступен."
+
+#: languages/seedprod-lite.php:713
+msgid "Setup a Landing Page"
+msgstr "Настройка лендинга"
+
+#: languages/seedprod-lite.php:719
+msgid "Edit Landing Pages"
+msgstr "Редактировать лендинг"
+
+#: languages/seedprod-lite.php:722
+msgid "Build a Website"
+msgstr "Создание сайта"
+
+#: languages/seedprod-lite.php:725
+msgid "Build your entire Website. Create Headers, Footers, Pages, Posts, Archives, Sidebars, and more."
+msgstr "Создайте полноценный сайт, добавляя заголовки, футеры, страницы, записи, архивы, боковые панели и многое другое."
+
+#: languages/seedprod-lite.php:728
+msgid "Select a Theme for my Website"
+msgstr "Выбрать тему для сайта"
+
+#: languages/seedprod-lite.php:734
+msgid "Build a WooCommerce Store"
+msgstr "Создание магазина WooCommerce"
+
+#: languages/seedprod-lite.php:737
+msgid "Create an entire WooCommerce store. Customize product pages, checkout, cart, product grids, and more."
+msgstr "Создайте полноценный магазин WooCommerce, настроив страницы товаров, кассу, корзину, товарные сетки и многое другое."
+
+#: languages/seedprod-lite.php:740
+msgid "Select a Theme for my Store"
+msgstr "Выбрать тему для магазина"
+
+#: languages/seedprod-lite.php:743
+msgid "Setup a Login Page"
+msgstr "Настройка страницы входа"
+
+#: languages/seedprod-lite.php:746
+msgid "Create a custom Login page for your website."
+msgstr "Создайте собственную страницу входа на сайт."
+
+#: languages/seedprod-lite.php:752
+msgid "Create a custom 404 page for your website."
+msgstr "Создайте собственную страницу «404» для сайта."
+
+#: languages/seedprod-lite.php:755
+msgid "Dismiss This Setup Page"
+msgstr "Скрыть эту страницу настройки"
+
+#: languages/seedprod-lite.php:758
+msgid "Finish Setup"
+msgstr "Завершить настройку"
+
+#: languages/seedprod-lite.php:761
+msgid "There was an issue completing the setup. Please refresh the page and try again."
+msgstr "При завершении настройки произошла ошибка. Обновите страницу и попробуйте еще раз."
+
+#: languages/seedprod-lite.php:767
+msgid "Coming Soon Page"
+msgstr "Страница «Скоро открытие»"
+
+#: languages/seedprod-lite.php:770
+msgid "Maintenance Mode Page"
+msgstr "Страница «На обслуживании»"
+
+#: languages/seedprod-lite.php:776
+msgid "You do not have any subscribers yet."
+msgstr "У вас пока нет подписчиков."
+
+#: languages/seedprod-lite.php:779
+msgid "Go to Pages"
+msgstr "К страницам"
+
+#: languages/seedprod-lite.php:782
+msgid "Search Emails"
+msgstr "Поиск писем"
+
+#: languages/seedprod-lite.php:798
+msgid "Created"
+msgstr "Создано"
+
+#: languages/seedprod-lite.php:806
+msgid "Subscribers Deleted"
+msgstr "Подписчики удалены"
+
+#: languages/seedprod-lite.php:814
+msgid "All Templates"
+msgstr "Все шаблоны"
+
+#: languages/seedprod-lite.php:819
+msgid "Favorite Templates"
+msgstr "Избранные шаблоны"
+
+#: languages/seedprod-lite.php:824
+msgid "Filter:"
+msgstr "Фильтр:"
+
+#: languages/seedprod-lite.php:859
+msgid "Search templates..."
+msgstr "Поиск шаблонов..."
+
+#: languages/seedprod-lite.php:868
+msgid "Sort:"
+msgstr "Сортировка:"
+
+#: languages/seedprod-lite.php:916
+msgid "Thank you for choosing SeedProd - The Best Website Builder, Landing Page Builder, Coming Soon, Maintenance Mode & more..."
+msgstr "Благодарим за выбор SeedProd, лучшего конструктора сайтов и лендингов, а также страниц «Скоро открытие», «На обслуживании» и многого другого..."
+
+#: languages/seedprod-lite.php:919
+msgid "Get Started →"
+msgstr "Приступить →"
+
+#: languages/seedprod-lite.php:922
+msgid "← Exit Setup"
+msgstr "← Выйти из настройки"
+
+#: languages/seedprod-lite.php:925
+msgid "Note: You will be transfered to an SeedProd.com to complete the setup wizard."
+msgstr "Обратите внимание: вы будете перенаправлены на сайт SeedProd.com для завершения настройки."
+
+#: languages/seedprod-lite.php:928
+msgid "Use our setup wizard to get started in less than 2 minutes and unlock free templates!"
+msgstr "Используйте мастер настройки: он поможет начать работу меньше, чем за 2 минуты, и откроет бесплатные шаблоны!"
+
+#: languages/seedprod-lite.php:931
+msgid "Use our setup wizard to get started in less than 2 minutes!"
+msgstr "Используйте мастер настройки, чтобы начать работу всего за 2 минуты!"
+
+#: languages/seedprod-lite.php:934
+msgid ""
+"Are you sure you want to exit the setup wizard?\n"
+"\n"
+"You will miss out on our free templates. 😬"
+msgstr ""
+"Выйти из мастера настройки?\n"
+"\n"
+"Вы не получите наши бесплатные шаблоны. 😬"
+
+#: languages/seedprod-lite.php:939
+msgid "Are you sure you want to exit the setup wizard? 😬"
+msgstr "Выйти из мастера настройки? 😬"
+
+#: languages/seedprod-lite.php:1086
+msgid "Add New Item"
+msgstr "Добавить элемент"
+
+#: languages/seedprod-lite.php:1171
+msgid "List Layout"
+msgstr "Макет списка"
+
+#: languages/seedprod-lite.php:1296
+msgid "Choose Your Style"
+msgstr "Выберите стиль"
+
+#: languages/seedprod-lite.php:1299
+msgid "Closed Icon Color"
+msgstr "Цвет закрытого значка"
+
+#: languages/seedprod-lite.php:1302
+msgid "Closed Icon"
+msgstr "Закрытый значок"
+
+#: languages/seedprod-lite.php:1305
+msgid "Open Icon Color"
+msgstr "Цвет открытого значка"
+
+#: languages/seedprod-lite.php:1308
+msgid "Open Icon"
+msgstr "Открытый значок"
+
+#: languages/seedprod-lite.php:1321
+msgid "Header Color"
+msgstr "Цвет заголовка"
+
+#: languages/seedprod-lite.php:1325
+msgid "Header Open Color"
+msgstr "Цвет открытого заголовка"
+
+#: languages/seedprod-lite.php:1875
+msgid "Vertical Padding"
+msgstr "Вертикальный внутренний отступ"
+
+#: languages/seedprod-lite.php:1883
+msgid "Horizontal Padding"
+msgstr "Горизонтальный внутренний отступ"
+
+#: languages/seedprod-lite.php:1934
+msgid "Before Text Icon"
+msgstr "Значок перед текстом"
+
+#: languages/seedprod-lite.php:1945
+msgid "After Text Icon"
+msgstr "Значок после текста"
+
+#: languages/seedprod-lite.php:1979
+msgid "Tiny"
+msgstr "Крошечный"
+
+#: languages/seedprod-lite.php:1987
+msgid "Pill Button"
+msgstr "Скругленная кнопка"
+
+#: languages/seedprod-lite.php:1995
+msgid "Flat Button"
+msgstr "Плоская кнопка"
+
+#: languages/seedprod-lite.php:2003
+msgid "Blue Button"
+msgstr "Синяя кнопка"
+
+#: languages/seedprod-lite.php:2011
+msgid "Light Green Button"
+msgstr "Светло-зеленая кнопка"
+
+#: languages/seedprod-lite.php:2019
+msgid "Green Button"
+msgstr "Зеленая кнопка"
+
+#: languages/seedprod-lite.php:2027
+msgid "Orange Button"
+msgstr "Оранжевая кнопка"
+
+#: languages/seedprod-lite.php:2035
+msgid "Red Button"
+msgstr "Красная кнопка"
+
+#: languages/seedprod-lite.php:2043
+msgid "Yellow Button"
+msgstr "Желтая кнопка"
+
+#: languages/seedprod-lite.php:2051
+msgid "White Button"
+msgstr "Белая кнопка"
+
+#: languages/seedprod-lite.php:2059
+msgid "Grey Button"
+msgstr "Серая кнопка"
+
+#: languages/seedprod-lite.php:2067
+msgid "Black Button"
+msgstr "Черная кнопка"
+
+#: languages/seedprod-lite.php:2099
+msgid "Flat"
+msgstr "Плоский"
+
+#: languages/seedprod-lite.php:2131
+msgid "Vintage"
+msgstr "Винтажный"
+
+#: languages/seedprod-lite.php:2147
+msgid "Ghost"
+msgstr "Призрак"
+
+#: languages/seedprod-lite.php:2160
+msgid "Button Background Style"
+msgstr "Стиль фона кнопки"
+
+#: languages/seedprod-lite.php:2236
+msgid "Gradient Type"
+msgstr "Тип градиента"
+
+#: languages/seedprod-lite.php:2243
+msgid "Radial"
+msgstr "Радиальный"
+
+#: languages/seedprod-lite.php:2250
+msgid "Linear"
+msgstr "Линейный"
+
+#: languages/seedprod-lite.php:2257
+msgid "Angle"
+msgstr "Угол"
+
+#: languages/seedprod-lite.php:2345
+msgid "First Color Location"
+msgstr "Расположение первого цвета"
+
+#: languages/seedprod-lite.php:2352
+msgid "Second Color Location"
+msgstr "Расположение второго цвета"
+
+#: languages/seedprod-lite.php:2359
+msgid "First Color"
+msgstr "Первый цвет"
+
+#: languages/seedprod-lite.php:2366
+msgid "Second Color"
+msgstr "Второй цвет"
+
+#: languages/seedprod-lite.php:2621
+msgid "To Left"
+msgstr "Влево"
+
+#: languages/seedprod-lite.php:2624
+msgid "To Right"
+msgstr "Вправо"
+
+#: languages/seedprod-lite.php:2845
+msgid "Attributes"
+msgstr "Атрибуты"
+
+#: languages/seedprod-lite.php:2851
+msgid "Css ID"
+msgstr "ID CSS"
+
+#: languages/seedprod-lite.php:2854
+msgid "Background Style"
+msgstr "Стиль фона"
+
+#: languages/seedprod-lite.php:2860
+msgid "Full Screen Cover - Fixed"
+msgstr "Покрытие на весь экран — исправлено"
+
+#: languages/seedprod-lite.php:2863
+msgid "100% Width Top"
+msgstr "100% ширины сверху"
+
+#: languages/seedprod-lite.php:2866
+msgid "Repeat Horizontal Top"
+msgstr "Повтор по горизонтали сверху"
+
+#: languages/seedprod-lite.php:2869
+msgid "Repeat Horizontal Bottom"
+msgstr "Повтор по горизонтали снизу"
+
+#: languages/seedprod-lite.php:2872
+msgid "Repeat Vertical Center"
+msgstr "Повтор по вертикали в центре"
+
+#: languages/seedprod-lite.php:2875
+msgid "100% Width Bottom"
+msgstr "100% ширины снизу"
+
+#: languages/seedprod-lite.php:2878
+msgid "Custom Position"
+msgstr "Пользовательское положение"
+
+#: languages/seedprod-lite.php:2884
+msgid "Full Screen Contain - Fixed"
+msgstr "Вмещение на весь экран — исправлено"
+
+#: languages/seedprod-lite.php:2887
+msgid "Full Screen Cover"
+msgstr "Покрытие на весь экран"
+
+#: languages/seedprod-lite.php:2890
+msgid "Full Screen Contain"
+msgstr "Вмещение на весь экран"
+
+#: languages/seedprod-lite.php:2893
+msgid "X Position"
+msgstr "Положение по X"
+
+#: languages/seedprod-lite.php:2896
+msgid "Y Position"
+msgstr "Положение по Y"
+
+#: languages/seedprod-lite.php:3173
+msgid "Striped Effect Template"
+msgstr "Шаблон с эффектом «полоски»"
+
+#: languages/seedprod-lite.php:3177
+msgid "Divider Template"
+msgstr "Шаблон с разделителями"
+
+#: languages/seedprod-lite.php:3181
+msgid "Background Template"
+msgstr "Шаблон с фоном"
+
+#: languages/seedprod-lite.php:3184
+msgid "Business Days and Timing"
+msgstr "Рабочие дни и время"
+
+#: languages/seedprod-lite.php:3188
+msgid "Date Font Size"
+msgstr "Размер шрифта даты"
+
+#: languages/seedprod-lite.php:3203
+msgid "Enter Day"
+msgstr "Введите дату"
+
+#: languages/seedprod-lite.php:3210
+msgid "Style Day/Time"
+msgstr "Стиль даты/времени"
+
+#: languages/seedprod-lite.php:3218
+msgid "Day Color"
+msgstr "Цвет даты"
+
+#: languages/seedprod-lite.php:3222
+msgid "Time Color"
+msgstr "Цвет времени"
+
+#: languages/seedprod-lite.php:3241
+msgid "Day and Time"
+msgstr "Дата и время"
+
+#: languages/seedprod-lite.php:3246
+msgid "Striped Effect"
+msgstr "Эффект «полоски»"
+
+#: languages/seedprod-lite.php:3251
+msgid "Striped Odd Rows Color"
+msgstr "Цвет нечетных полосок"
+
+#: languages/seedprod-lite.php:3256
+msgid "Striped Even Rows Color"
+msgstr "Цвет четных полосок"
+
+#: languages/seedprod-lite.php:3282
+msgid "Add \"No Follow\""
+msgstr "Добавить «Без подписки»"
+
+#: languages/seedprod-lite.php:3288
+msgid "Button Sub Text"
+msgstr "Подтекст кнопки"
+
+#: languages/seedprod-lite.php:3302
+msgid "Open In New Window"
+msgstr "Открыть в новом окне"
+
+#: languages/seedprod-lite.php:3307
+msgid "Button Border Width"
+msgstr "Ширина границы кнопки"
+
+#: languages/seedprod-lite.php:3312
+msgid "Button Border Color"
+msgstr "Цвет границы кнопки"
+
+#: languages/seedprod-lite.php:3315
+msgid "Column Width"
+msgstr "Ширина столбца"
+
+#: languages/seedprod-lite.php:3336
+msgid "Advanced Styles"
+msgstr "Продвинутые стили"
+
+#: languages/seedprod-lite.php:3345
+msgid "Simple"
+msgstr "Простой"
+
+#: languages/seedprod-lite.php:3357
+msgid "Justify Content"
+msgstr "Выровнять контент по ширине"
+
+#: languages/seedprod-lite.php:3361
+msgid "Align Items"
+msgstr "Выровнять элементы"
+
+#: languages/seedprod-lite.php:3375
+msgid "Flex Start"
+msgstr "Начало изгиба"
+
+#: languages/seedprod-lite.php:3383
+msgid "Flex End"
+msgstr "Конец изгиба"
+
+#: languages/seedprod-lite.php:3387
+msgid "Space Around"
+msgstr "Пространство вокруг"
+
+#: languages/seedprod-lite.php:3391
+msgid "Space Evenly"
+msgstr "Пространство равномерно"
+
+#: languages/seedprod-lite.php:3395
+msgid "Baseline"
+msgstr "Опорная линия"
+
+#: languages/seedprod-lite.php:3405
+msgid "Shape Divider"
+msgstr "Делитель форм"
+
+#: languages/seedprod-lite.php:3408
+msgid "Global Colors"
+msgstr "Глобальные цвета"
+
+#: languages/seedprod-lite.php:3411
+msgid "Common Colors"
+msgstr "Общие цвета"
+
+#: languages/seedprod-lite.php:3414
+msgid "Recently Used"
+msgstr "Недавно использованные"
+
+#: languages/seedprod-lite.php:3421
+msgid "Global Theme Colors"
+msgstr "Цвета глобальной темы"
+
+#: languages/seedprod-lite.php:3424
+msgid "Install Contact Form plugin:"
+msgstr "Установить плагин контактных форм:"
+
+#: languages/seedprod-lite.php:3437
+msgid "(This shortcode will be rendered on the live preview.)"
+msgstr "(Этот шорткод будет отображаться при предпросмотре.)"
+
+#: languages/seedprod-lite.php:3450
+msgid "Need to make changes? Edit the selected form."
+msgstr "Хотите что-то изменить? Отредактируйте выбранную форму."
+
+#: languages/seedprod-lite.php:3453
+msgid "+ New Form"
+msgstr "+ Новая форма"
+
+#: languages/seedprod-lite.php:3457
+msgid "Form Name"
+msgstr "Название формы"
+
+#: languages/seedprod-lite.php:3461
+msgid "Form Description"
+msgstr "Описание формы"
+
+#: languages/seedprod-lite.php:3501
+msgid "First Background Color"
+msgstr "Первый цвет фона"
+
+#: languages/seedprod-lite.php:3504
+msgid "Second Background Color"
+msgstr "Второй цвет фона"
+
+#: languages/seedprod-lite.php:3570
+msgid "Countdown Type"
+msgstr "Тип таймера"
+
+#: languages/seedprod-lite.php:3573
+msgid "Visitor Timer (Evergreen)"
+msgstr "Таймер посетителя (всегда актуальный)"
+
+#: languages/seedprod-lite.php:3576
+msgid "DateTime Countdown"
+msgstr "Таймер даты и времени"
+
+#: languages/seedprod-lite.php:3579
+msgid "Set Timer For"
+msgstr "Установить таймер на"
+
+#: languages/seedprod-lite.php:3592
+msgid "Action To Take On Expires"
+msgstr "Действие по истечении"
+
+#: languages/seedprod-lite.php:3612
+msgid "Customize Labels"
+msgstr "Настроить этикетки"
+
+#: languages/seedprod-lite.php:3615
+msgid "Day Label"
+msgstr "Этикетка дней"
+
+#: languages/seedprod-lite.php:3618
+msgid "Hour Label"
+msgstr "Этикетка часов"
+
+#: languages/seedprod-lite.php:3621
+msgid "Minute Label"
+msgstr "Этикетка минут"
+
+#: languages/seedprod-lite.php:3624
+msgid "Second Label"
+msgstr "Этикетка секунд"
+
+#: languages/seedprod-lite.php:3675
+msgid "Title Text Color"
+msgstr "Цвет текста заголовка"
+
+#: languages/seedprod-lite.php:3701
+msgid "Enter Your HTML"
+msgstr "Введите свой HTML"
+
+#: languages/seedprod-lite.php:3745
+msgid "Overflow"
+msgstr "Переполнение"
+
+#: languages/seedprod-lite.php:3819
+msgid "Please enter date/time format"
+msgstr "Введите формат даты/времени"
+
+#: languages/seedprod-lite.php:3838
+msgid "Dynamic Text Replacement"
+msgstr "Вставка динамического текста"
+
+#: languages/seedprod-lite.php:3841
+msgid "DateTime"
+msgstr "Дата и время"
+
+#: languages/seedprod-lite.php:3844
+msgid "Query Parameter"
+msgstr "Параметр запроса"
+
+#: languages/seedprod-lite.php:3850
+msgid "Tomorrow"
+msgstr "Завтра"
+
+#: languages/seedprod-lite.php:3853
+msgid "Today Date"
+msgstr "Сегодняшняя дата"
+
+#: languages/seedprod-lite.php:3856
+msgid "Tomorrow Date"
+msgstr "Завтрашняя дата"
+
+#: languages/seedprod-lite.php:3862
+msgid "Next Month"
+msgstr "Следующий месяц"
+
+#: app/subscriber.php:69 languages/seedprod-lite.php:3865
+msgid "Year"
+msgstr "Год"
+
+#: languages/seedprod-lite.php:3868
+msgid "Select Date Time Format"
+msgstr "Выберите формат даты и времени"
+
+#: languages/seedprod-lite.php:3871
+msgid "Query Parameters"
+msgstr "Параметры запроса"
+
+#: languages/seedprod-lite.php:3874
+msgid "Dynamic Text allows to create evergreen text. You can create date based dynamic text or pass in by query parameter. <a href=\"https://www.seedprod.com/docs/dynamic-text\" target=\"_blank\" class=\"sp-text-primary hover:sp-underline\">Learn More</a>"
+msgstr "Эта функция позволяет создавать текст, который будет актуальным для пользователей в любой момент времени. Можно создать динамический текст по дате или по параметру запроса. <a href=\"https://www.seedprod.com/docs/dynamic-text\" target=\"_blank\" class=\"sp-text-primary hover:sp-underline\">Подробнее</a>"
+
+#: languages/seedprod-lite.php:3877
+msgid "Parameter Name"
+msgstr "Название параметра"
+
+#: languages/seedprod-lite.php:3883
+msgid "Please enter parameter name"
+msgstr "Введите название параметра"
+
+#: languages/seedprod-lite.php:3886
+msgid "Don't see the date format you need? Click the Learn More link above to learn how to create any date."
+msgstr "Нет нужного формата даты? Нажмите «Подробнее» выше, чтобы узнать, как создать дату в любом формате."
+
+#: languages/seedprod-lite.php:3933
+msgid "Field Border Color"
+msgstr "Цвет границы поля"
+
+#: languages/seedprod-lite.php:3956
+msgid "Row Spacing"
+msgstr "Интервал между строками"
+
+#: languages/seedprod-lite.php:4030
+msgid "Light Input Field"
+msgstr "Светлое поле ввода"
+
+#: languages/seedprod-lite.php:4040
+msgid "No Border Input Field"
+msgstr "Поле ввода без границы"
+
+#: languages/seedprod-lite.php:4050
+msgid "Wide Border Input Field"
+msgstr "Поле ввода с широкой границей"
+
+#: languages/seedprod-lite.php:4060
+msgid "Inner Shadow Input Field"
+msgstr "Поле ввода с внутренней тенью"
+
+#: languages/seedprod-lite.php:4070
+msgid "Grey Input Field"
+msgstr "Серое поле ввода"
+
+#: languages/seedprod-lite.php:4080
+msgid "Dark Input Field"
+msgstr "Темное поле ввода"
+
+#: languages/seedprod-lite.php:4090
+msgid "Bottom Border Field"
+msgstr "Поле нижней границы"
+
+#: languages/seedprod-lite.php:4100
+msgid "Transparent Input Field"
+msgstr "Прозрачное поле ввода"
+
+#: languages/seedprod-lite.php:4123
+msgid "Label Font"
+msgstr "Шрифт этикетки"
+
+#: languages/seedprod-lite.php:4307
+msgid "No Follow"
+msgstr "No Follow"
+
+#: languages/seedprod-lite.php:4438
+msgid "Button Size"
+msgstr "Размер кнопки"
+
+#: languages/seedprod-lite.php:4619
+msgid "Click to select an icon"
+msgstr "Нажмите, чтобы выбрать значок"
+
+#: languages/seedprod-lite.php:4622
+msgid "Search icons"
+msgstr "Поиск значков"
+
+#: languages/seedprod-lite.php:4631
+msgid "Select a Font Weight"
+msgstr "Выбрать толщину шрифта"
+
+#: languages/seedprod-lite.php:4634
+msgid "Normal 400"
+msgstr "Обычный 400"
+
+#: languages/seedprod-lite.php:4640
+msgid "Install Giveaway plugin:"
+msgstr "Установить плагин для лотерей:"
+
+#: languages/seedprod-lite.php:4656
+msgid "You can use RafflePress to build viral giveaways in minutes and explode your email list."
+msgstr "Создавайте вирусные лотереи с помощью RafflePress за считанные минуты и расширяйте список адресов эл. почты."
+
+#: languages/seedprod-lite.php:4653
+msgid "Select a Giveaway"
+msgstr "Выберите лотерею"
+
+#: languages/seedprod-lite.php:4659
+msgid "Need to make changes? Edit the selected giveaway."
+msgstr "Хотите что-то изменить? Отредактируйте выбранную лотерею."
+
+#: languages/seedprod-lite.php:4662
+msgid "+ New Giveaway"
+msgstr "+ Создать лотерею"
+
+#: languages/seedprod-lite.php:4686
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: languages/seedprod-lite.php:4689
+msgid "Search icons..."
+msgstr "Поиск значков..."
+
+#: languages/seedprod-lite.php:4693
+msgid "Choose Icon"
+msgstr "Выберите значок"
+
+#: languages/seedprod-lite.php:4696
+msgid "Icon Library"
+msgstr "Библиотека значков"
+
+#: languages/seedprod-lite.php:4699
+msgid "Choose New Image"
+msgstr "Выберите изображение"
+
+#: languages/seedprod-lite.php:4702
+msgid "Use Your"
+msgstr "Использовать"
+
+#: languages/seedprod-lite.php:4705
+msgid "Own Image"
+msgstr "собственное изображение"
+
+#: languages/seedprod-lite.php:4714
+msgid "Stock Images Library"
+msgstr "Библиотека стоковых изображений"
+
+#: languages/seedprod-lite.php:4717
+msgid "Use a"
+msgstr "Использовать"
+
+#: languages/seedprod-lite.php:4720
+msgid "Stock Image"
+msgstr "стоковое изображение"
+
+#: languages/seedprod-lite.php:4723
+msgid "Search images..."
+msgstr "Поиск изображений..."
+
+#: languages/seedprod-lite.php:4729
+msgid "Link Type"
+msgstr "Тип ссылки"
+
+#: languages/seedprod-lite.php:4735
+msgid "Media - Lightbox"
+msgstr "Мультимедиа — лайтбокс"
+
+#: languages/seedprod-lite.php:4738
+msgid "Object Fit"
+msgstr "Подгонка"
+
+#: languages/seedprod-lite.php:4744
+msgid "Border Radius Unit"
+msgstr "Единица скругления углов"
+
+#: languages/seedprod-lite.php:4760
+msgid "Select bulk action"
+msgstr "Выбрать массовое действие"
+
+#: languages/seedprod-lite.php:4793
+msgid "Get SeedProd Lite and Unlock all the Powerful Features"
+msgstr "Установите SeedProd Lite и откройте все полезные функции"
+
+#: languages/seedprod-lite.php:6364
+msgid ""
+"Thanks for being a loyal SeedProd Lite user. Upgrade to\n"
+"SeedProd Lite to unlock all the awesome features and\n"
+"experience why SeedProd is the best WordPress landing\n"
+"page plugin."
+msgstr ""
+"Благодарим за использование SeedProd Lite. Перейдите на план\n"
+"SeedProd Lite, чтобы открыть все потрясающие функции и\n"
+"убедиться, что SeedProd — это лучший плагин WordPress\n"
+"для лендингов."
+
+#: languages/seedprod-lite.php:4805
+msgid "Drag & Drop Page Builder"
+msgstr "Удобный конструктор страниц"
+
+#: languages/seedprod-lite.php:4810
+msgid "80+ PRO Page Blocks"
+msgstr "Более 80 PRO-блоков страниц"
+
+#: languages/seedprod-lite.php:4814
+msgid "PRO Email Marketing Integrations"
+msgstr "PRO-интеграция маркетинга по эл. почте"
+
+#: languages/seedprod-lite.php:4820
+msgid "Custom 404 Pages"
+msgstr "Собственные страницы «404»"
+
+#: languages/seedprod-lite.php:4825
+msgid "Page Access Controls"
+msgstr "Настройки доступа к странице"
+
+#: languages/seedprod-lite.php:4830
+msgid "200+ PRO Page Templates"
+msgstr "Более 200 PRO-шаблонов страниц"
+
+#: languages/seedprod-lite.php:4835
+msgid "PRO Smart Sections"
+msgstr "Умные PRO-разделы"
+
+#: languages/seedprod-lite.php:4840
+msgid "Email Subscriber Management"
+msgstr "Управление получателями рассылок"
+
+#: languages/seedprod-lite.php:4854
+msgid "Plus much more..."
+msgstr "И многое другое..."
+
+#: languages/seedprod-lite.php:4861
+msgid "Bonus:"
+msgstr "Бонус:"
+
+#: languages/seedprod-lite.php:4868
+msgid "SeedProd Lite users get"
+msgstr "Пользователи SeedProd Lite"
+
+#: languages/seedprod-lite.php:4875
+msgid "a discount off the regular price"
+msgstr "автоматически получают скидку"
+
+#: languages/seedprod-lite.php:4882
+msgid "automatically applied at checkout."
+msgstr "на этапе оплаты."
+
+#: languages/seedprod-lite.php:4767
+msgid "Get SeedProd Lite Today and Unlock all the Powerful Features »"
+msgstr "Установите SeedProd Lite и откройте все полезные функции »"
+
+#: languages/seedprod-lite.php:4885
+msgid "Filter by Page"
+msgstr "Фильтровать по страницам"
+
+#: languages/seedprod-lite.php:4888
+msgid "Export to a CSV File"
+msgstr "Экспорт в файл CSV"
+
+#: languages/seedprod-lite.php:4891
+msgid "Premium Email Marketing Integrations"
+msgstr "Премиальная интеграция маркетинга по эл. почте"
+
+#: languages/seedprod-lite.php:4894
+msgid "Subscribers Over Time"
+msgstr "Динамика подписчиков"
+
+#: languages/seedprod-lite.php:4906
+msgid "More Premium Blocks"
+msgstr "Больше премиальных блоков"
+
+#: languages/seedprod-lite.php:4909
+msgid "Capture Emails and Leads"
+msgstr "Получение адресов эл. почты и лидов"
+
+#: languages/seedprod-lite.php:4912
+msgid "Marketing & CRM Integrations"
+msgstr "Интеграция маркетинга и CRM"
+
+#: languages/seedprod-lite.php:4915
+msgid "Maintenance Access Controls"
+msgstr "Управление доступом к странице «На обслуживании»"
+
+#: languages/seedprod-lite.php:4918
+msgid "Growing Library of Templates"
+msgstr "Растущая библиотека шаблонов"
+
+#: languages/seedprod-lite.php:4921
+msgid "Smart Sections"
+msgstr "Умные разделы"
+
+#: languages/seedprod-lite.php:4924
+msgid "More Design Controls"
+msgstr "Больше настроек дизайна"
+
+#: languages/seedprod-lite.php:4927
+msgid "Coming Soon Access Controls"
+msgstr "Управление доступом к странице «Скоро открытие»"
+
+#: languages/seedprod-lite.php:4936
+msgid "Label for User field"
+msgstr "Этикетка для поля пользователя"
+
+#: languages/seedprod-lite.php:4939
+msgid "Placeholder for User field"
+msgstr "Заполнитель для поля пользователя"
+
+#: languages/seedprod-lite.php:4942
+msgid "Label for Password field"
+msgstr "Этикетка для поля пароля"
+
+#: languages/seedprod-lite.php:4945
+msgid "Placeholder for Password field"
+msgstr "Заполнитель для поля пароля"
+
+#: languages/seedprod-lite.php:4951
+msgid "Label Text Color"
+msgstr "Цвет текста этикетки"
+
+#: languages/seedprod-lite.php:4960
+msgid "Label Spacing"
+msgstr "Интервал между этикетками"
+
+#: languages/seedprod-lite.php:4968
+msgid "Success Action"
+msgstr "Действие при успехе"
+
+#: languages/seedprod-lite.php:4971
+msgid "Additional Options"
+msgstr "Дополнительные опции"
+
+#: languages/seedprod-lite.php:4974
+msgid "Remember User Label"
+msgstr "Этикетка «Запомнить пользователя»"
+
+#: languages/seedprod-lite.php:4977
+msgid "Lost Password Link Text"
+msgstr "Текст ссылки для сброса пароля"
+
+#: languages/seedprod-lite.php:4985
+msgid "Label Font Weight"
+msgstr "Толщина шрифта этикетки"
+
+#: languages/seedprod-lite.php:4988
+msgid "Field Font"
+msgstr "Шрифт поля"
+
+#: languages/seedprod-lite.php:4991
+msgid "Field Font Weight"
+msgstr "Толщина шрифта поля"
+
+#: languages/seedprod-lite.php:4995
+msgid "Button Font"
+msgstr "Шрифт кнопки"
+
+#: languages/seedprod-lite.php:4998
+msgid "Button Font Weight"
+msgstr "Толщина шрифта кнопки"
+
+#: languages/seedprod-lite.php:5001
+msgid "Logged In Text"
+msgstr "Текст для выполнивших вход"
+
+#: languages/seedprod-lite.php:5004
+msgid "This text displays in place of a form if the user is already logged in. {user} will be replaced by the user's display name."
+msgstr "Этот текст отображается вместо формы, если пользователь уже вошел в систему. Метка «{user}» будет заменена на отображаемое имя пользователя."
+
+#: languages/seedprod-lite.php:5007
+msgid "(e.g. 'Remember Me')"
+msgstr "(например «Запомнить меня»)"
+
+#: languages/seedprod-lite.php:5010
+msgid "(e.g. 'Lost your password?')"
+msgstr "(например «Забыли пароль?»)"
+
+#: languages/seedprod-lite.php:5017
+msgid "Label Text Size"
+msgstr "Размер текста этикетки"
+
+#: languages/seedprod-lite.php:5026
+msgid "Hide on Empty"
+msgstr "Скрывать, если пусто"
+
+#: languages/seedprod-lite.php:5029
+msgid "Show Subtotal"
+msgstr "Показывать промежуточный итог"
+
+#: languages/seedprod-lite.php:5032
+msgid "Badge Color"
+msgstr "Цвет значка"
+
+#: languages/seedprod-lite.php:5038
+msgid "default header"
+msgstr "заголовок по умолчанию"
+
+#: languages/seedprod-lite.php:5041
+msgid "default body"
+msgstr "основная часть по умолчанию"
+
+#: languages/seedprod-lite.php:5059
+msgid "Menu Type"
+msgstr "Тип меню"
+
+#: languages/seedprod-lite.php:5062
+msgid "WordPress Menu"
+msgstr "Меню WordPress"
+
+#: languages/seedprod-lite.php:5065
+msgid "Sub Menu Background Color"
+msgstr "Цвет фона подменю"
+
+#: languages/seedprod-lite.php:5068
+msgid "Sub Menu Border Radius"
+msgstr "Радиус границы подменю"
+
+#: languages/seedprod-lite.php:5071
+msgid "Sub Menu Line Height"
+msgstr "Высота строки подменю"
+
+#: languages/seedprod-lite.php:5074
+msgid "Sub Menu Border Width"
+msgstr "Ширина границы подменю"
+
+#: languages/seedprod-lite.php:5077
+msgid "Sub Menu Border Color"
+msgstr "Цвет границы подменю"
+
+#: languages/seedprod-lite.php:5080
+msgid "Sub Menu Text Color"
+msgstr "Цвет текста подменю"
+
+#: languages/seedprod-lite.php:5083
+msgid "Sub Menu Hover Color"
+msgstr "Цвет подменю при наведении"
+
+#: languages/seedprod-lite.php:5099
+msgid "Menus Screen"
+msgstr "экран меню,"
+
+#: languages/seedprod-lite.php:5102
+msgid "to manage your menus"
+msgstr "чтобы настроить меню"
+
+#: languages/seedprod-lite.php:5120
+msgid "Input Sizes"
+msgstr "Размеры ввода"
+
+#: languages/seedprod-lite.php:5123
+msgid "Action To Take"
+msgstr "Требуемое действие"
+
+#: languages/seedprod-lite.php:5126
+msgid "Remove Inline Padding"
+msgstr "Удалить встроенный внутренний отступ"
+
+#: languages/seedprod-lite.php:5159
+msgid "Flow Direction"
+msgstr "Направление потока"
+
+#: languages/seedprod-lite.php:5207
+msgid "Profile Picture"
+msgstr "Изображение профиля"
+
+#: languages/seedprod-lite.php:5210
+msgid "Display Name"
+msgstr "Отображаемое имя"
+
+#: languages/seedprod-lite.php:5213
+msgid "Biography"
+msgstr "Биография"
+
+#: languages/seedprod-lite.php:5229
+msgid "Archive Posts"
+msgstr "Архивные записи"
+
+#: languages/seedprod-lite.php:5234
+msgid "Name Color"
+msgstr "Цвет имени"
+
+#: languages/seedprod-lite.php:5237
+msgid "Biography Color"
+msgstr "Цвет биографии"
+
+#: languages/seedprod-lite.php:5247
+msgid "Profile Screen"
+msgstr "Экран профиля"
+
+#: languages/seedprod-lite.php:5250
+msgid "to manage your profile."
+msgstr "для управления профилем."
+
+#: languages/seedprod-lite.php:5253
+msgid "Content Policy"
+msgstr "Политика контента"
+
+#: languages/seedprod-lite.php:5270
+msgid "Layout Settings"
+msgstr "Настройки макета"
+
+#: languages/seedprod-lite.php:5284
+msgid "May 14, 2021 (F j, Y)"
+msgstr "Май 14, 2021 (F j, Y)"
+
+#: languages/seedprod-lite.php:5287
+msgid "2021-05-14 (Y-m-d)"
+msgstr "2021-05-14 (Y-m-d)"
+
+#: languages/seedprod-lite.php:5290
+msgid "05/14/2021 (m/d/Y)"
+msgstr "05/14/2021 (m/d/Y)"
+
+#: languages/seedprod-lite.php:5293
+msgid "14/05/2021 (d/m/Y)"
+msgstr "14/05/2021 (d/m/Y)"
+
+#: languages/seedprod-lite.php:5296
+msgid "Custom Date Format"
+msgstr "Произвольный формат даты"
+
+#: languages/seedprod-lite.php:5299
+msgid "Use the letters: l D d j S F m M n Y y"
+msgstr "Используйте буквы: l D d j S F m M n Y y"
+
+#: languages/seedprod-lite.php:5302
+msgid "Modified Date"
+msgstr "Дата изменения"
+
+#: languages/seedprod-lite.php:5305
+msgid "Modified Time"
+msgstr "Время изменения"
+
+#: languages/seedprod-lite.php:5322
+msgid "9:15 am (g:i a)"
+msgstr "9:15 am (g:i a)"
+
+#: languages/seedprod-lite.php:5325
+msgid "9:15 AM (g:i A)"
+msgstr "9:15 AM (g:i a)"
+
+#: languages/seedprod-lite.php:5328
+msgid "09:15 (H:i)"
+msgstr "09:15 (H:i)"
+
+#: languages/seedprod-lite.php:5331
+msgid "Custom Time Format"
+msgstr "Произвольный формат времени"
+
+#: languages/seedprod-lite.php:5334
+msgid "Use the letters: g G H i a A"
+msgstr "Используйте буквы: g G H i a A"
+
+#: languages/seedprod-lite.php:5670
+msgid "Top Button Border Radius"
+msgstr "Радиус границы верхней кнопки"
+
+#: languages/seedprod-lite.php:6301
+msgid "Name Align"
+msgstr "Выравнивание имени"
+
+#: languages/seedprod-lite.php:4747
+msgid "Bulk Actions"
+msgstr "Массовые действия"
+
+#: languages/seedprod-lite.php:3835
+msgid "Cancel"
+msgstr "Отмена"
+
+#: languages/seedprod-lite.php:4323
+msgid "Columns"
+msgstr "Столбцы"
+
+#: languages/seedprod-lite.php:3586
+msgid "End Time"
+msgstr "Время окончания"
+
+#: languages/seedprod-lite.php:3169
+msgid "Icon Color"
+msgstr "Цвет значка"
+
+#: languages/seedprod-lite.php:3779
+msgid "Icon Size"
+msgstr "Размер значка"
+
+#: languages/seedprod-lite.php:848
+msgid "Next"
+msgstr "Далее"
+
+#: languages/seedprod-lite.php:5053
+msgid "Off"
+msgstr "Откл"
+
+#: languages/seedprod-lite.php:3733
+msgid "Relative"
+msgstr "Относительный"
+
+#: languages/seedprod-lite.php:1646
+msgid "Small"
+msgstr "Маленький"
+
+#: languages/seedprod-lite.php:59
+msgid "Yup, we know a thing or two about building awesome products that customers love."
+msgstr "Уж мы-то знаем толк в создании классных продуктов, которые нравятся пользователям."
+
+#: languages/seedprod-lite.php:232
+msgid "Edit Page"
+msgstr "Редактировать страницу"
+
+#: languages/seedprod-lite.php:257
+msgid "404 Page"
+msgstr "Страница «404»"
+
+#: languages/seedprod-lite.php:274
+msgid "Edit"
+msgstr "Править"
+
+#: languages/seedprod-lite.php:279
+msgid "Duplicate"
+msgstr "Создать дубликат"
+
+#: languages/seedprod-lite.php:328
+msgid "Trash"
+msgstr "В корзине"
+
+#: languages/seedprod-lite.php:337
+msgid "Delete Permanently"
+msgstr "Удалить безвозвратно"
+
+#: languages/seedprod-lite.php:570
+msgid "Your license key provides access to updates and addons."
+msgstr "Активация плагина обеспечивает доступ к обновлениям и дополнениям."
+
+#: languages/seedprod-lite.php:611
+msgid "Global Settings"
+msgstr "Общие настройки"
+
+#: languages/seedprod-lite.php:695
+msgid "I'll do it later"
+msgstr "Я сделаю это позже"
+
+#: languages/seedprod-lite.php:749
+msgid "Setup a 404 Page"
+msgstr "Настроить страницу «404»"
+
+#: languages/seedprod-lite.php:836
+msgid "First Page"
+msgstr "Первая"
+
+#: languages/seedprod-lite.php:842
+msgid "Prev"
+msgstr "Пред."
+
+#: languages/seedprod-lite.php:854
+msgid "Last Page"
+msgstr "Последняя"
+
+#: languages/seedprod-lite.php:1116
+msgid "Space Between"
+msgstr "Промежуток"
+
+#: languages/seedprod-lite.php:1234
+msgid "Top Margin"
+msgstr "Верхний внешний отступ"
+
+#: languages/seedprod-lite.php:1448
+msgid "Bottom"
+msgstr "Внизу"
+
+#: languages/seedprod-lite.php:1565
+msgid "None"
+msgstr "Нет"
+
+#: languages/seedprod-lite.php:1913
+msgid "Border Radius"
+msgstr "Радиус скругления"
+
+#: languages/seedprod-lite.php:2181
+msgid "Solid"
+msgstr "Одноцветный"
+
+#: languages/seedprod-lite.php:2274
+msgid "Top Center"
+msgstr "Сверху в центре"
+
+#: languages/seedprod-lite.php:2306
+msgid "Center Left"
+msgstr "В центре слева"
+
+#: languages/seedprod-lite.php:2313
+msgid "Center Right"
+msgstr "В центре справа"
+
+#: languages/seedprod-lite.php:2320
+msgid "Bottom Center"
+msgstr "Снизу в центре"
+
+#: languages/seedprod-lite.php:2329
+msgid "Bottom Left"
+msgstr "Снизу слева"
+
+#: languages/seedprod-lite.php:2338
+msgid "Bottom Right"
+msgstr "Снизу справа"
+
+#: languages/seedprod-lite.php:2383
+msgid "Custom"
+msgstr "Произвольная"
+
+#: languages/seedprod-lite.php:2401
+msgid "Title"
+msgstr "Название"
+
+#: languages/seedprod-lite.php:2416
+msgid "Title Align"
+msgstr "Выравнивание заголовка"
+
+#: languages/seedprod-lite.php:2501
+msgid "Show Icon"
+msgstr "Показывать значок"
+
+#: languages/seedprod-lite.php:2537
+msgid "Show"
+msgstr "Показывать"
+
+#: languages/seedprod-lite.php:2582
+msgid "Align"
+msgstr "Выравнивание"
+
+#: languages/seedprod-lite.php:2848
+msgid "Custom Class"
+msgstr "Пользовательский класс"
+
+#: languages/seedprod-lite.php:2910
+msgid "Repeat"
+msgstr "Повтор"
+
+#: languages/seedprod-lite.php:2916
+msgid "Repeat-x"
+msgstr "Повтор по х"
+
+#: languages/seedprod-lite.php:2919
+msgid "Repeat-y"
+msgstr "Повтор по у"
+
+#: languages/seedprod-lite.php:3094
+msgid "Border Style"
+msgstr "Стиль границы"
+
+#: languages/seedprod-lite.php:3112
+msgid "Dotted"
+msgstr "Точки"
+
+#: languages/seedprod-lite.php:3142
+msgid "Border Color"
+msgstr "Цвет границы блока"
+
+#: languages/seedprod-lite.php:3154
+msgid "Border Width"
+msgstr "Ширина границы"
+
+#: languages/seedprod-lite.php:3236
+msgid "Weight"
+msgstr "Вес"
+
+#: languages/seedprod-lite.php:3340
+msgid "Content Alignment"
+msgstr "Выравнивание контента"
+
+#: languages/seedprod-lite.php:3399
+msgid "Stretch"
+msgstr "Растяжение"
+
+#: languages/seedprod-lite.php:3418
+msgid "Clear"
+msgstr "Сброс"
+
+#: languages/seedprod-lite.php:3441
+msgid "Select a Form"
+msgstr "Выберите форму"
+
+#: languages/seedprod-lite.php:3444
+msgid "You can use WPForms to build contact forms, surveys, payment forms, and more with just a few clicks."
+msgstr "Используйте WPForms создания контактных форм, опросов, платежных форм и многого другого всего за несколько кликов."
+
+#: languages/seedprod-lite.php:3447
+msgid "Select"
+msgstr "Выпадающий список"
+
+#: languages/seedprod-lite.php:3471
+msgid "Display Options"
+msgstr "Показать настройки"
+
+#: languages/seedprod-lite.php:3600
+msgid "Redirect"
+msgstr "Переадресация"
+
+#: languages/seedprod-lite.php:3709
+msgid "Custom Code"
+msgstr "Собственный код"
+
+#: languages/seedprod-lite.php:3718
+msgid "Hide on Desktop"
+msgstr "Скрывать на ПК"
+
+#: languages/seedprod-lite.php:3736
+msgid "Absolute"
+msgstr "Абсолютный"
+
+#: languages/seedprod-lite.php:3739
+msgid "Sticky"
+msgstr "Закрепленный"
+
+#: languages/seedprod-lite.php:3750
+msgid "Visible"
+msgstr "Сайт виден"
+
+#: languages/seedprod-lite.php:3755
+msgid "Hidden"
+msgstr "Сайт скрыт"
+
+#: languages/seedprod-lite.php:3786
+msgid "HTML Tag"
+msgstr "Метка HTML"
+
+#: languages/seedprod-lite.php:3816
+msgid "span"
+msgstr "интервал"
+
+#: languages/seedprod-lite.php:3945
+msgid "Field Border Width"
+msgstr "Ширина границы поля"
+
+#: languages/seedprod-lite.php:4174
+msgid "Total Text Color"
+msgstr "Общий цвет текста"
+
+#: languages/seedprod-lite.php:4269
+msgid "Image Border"
+msgstr "Граница изображения"
+
+#: languages/seedprod-lite.php:4277
+msgid "Alt Text"
+msgstr "Альтернативный текст"
+
+#: languages/seedprod-lite.php:4373
+msgid "Order By"
+msgstr "Упорядочить"
+
+#: languages/seedprod-lite.php:4473
+msgid "Pagination"
+msgstr "Разбивка на страницы"
+
+#: languages/seedprod-lite.php:4530
+msgid "Show Excerpt"
+msgstr "Показывать отрывок"
+
+#: languages/seedprod-lite.php:4637
+msgid "Bold 700"
+msgstr "Полужирный 700"
+
+#: languages/seedprod-lite.php:4668
+msgid "Location"
+msgstr "Место нахождения"
+
+#: languages/seedprod-lite.php:4671
+msgid "Zoom"
+msgstr "Зум"
+
+#: languages/seedprod-lite.php:4732
+msgid "Custom Link"
+msgstr "Пользовательская ссылка"
+
+#: languages/seedprod-lite.php:4741
+msgid "Fill"
+msgstr "Заполнение"
+
+#: languages/seedprod-lite.php:4754
+msgid "items"
+msgstr "элементов"
+
+#: languages/seedprod-lite.php:4757
+msgid "No items found."
+msgstr "Ничего не найдено."
+
+#: languages/seedprod-lite.php:4786
+msgid "Dismiss this message"
+msgstr "Отклонить это сообщение"
+
+#: languages/seedprod-lite.php:4800
+msgid "Pro Features:"
+msgstr "Возможности Pro:"
+
+#: languages/seedprod-lite.php:4847
+msgid "Saved Templates"
+msgstr "Сохраненные шаблоны"
+
+#: languages/seedprod-lite.php:5044
+msgid "URL Link"
+msgstr "Ссылка URL"
+
+#: languages/seedprod-lite.php:5096
+msgid "Go to the"
+msgstr "Откройте"
+
+#: languages/seedprod-lite.php:5108
+msgid "Submit Button"
+msgstr "Кнопка «Отправить»"
+
+#: languages/seedprod-lite.php:5114
+msgid "Label"
+msgstr "Заголовок"
+
+#: languages/seedprod-lite.php:5226
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: languages/seedprod-lite.php:5313
+msgid "Category"
+msgstr "Категория"
+
+#: languages/seedprod-lite.php:5346
+msgid "Manual"
+msgstr "Ручной"
+
+#: languages/seedprod-lite.php:5382
+msgid "Comment Count"
+msgstr "Количество комментариев"
+
+#: languages/seedprod-lite.php:5416
+msgid "Show Meta"
+msgstr "Показывать метаданные"
+
+#: languages/seedprod-lite.php:5419
+msgid "Show Date Modified"
+msgstr "Показывать дату изменения"
+
+#: languages/seedprod-lite.php:5422
+msgid "Show Author"
+msgstr "Показывать автора"
+
+#: languages/seedprod-lite.php:5425
+msgid "Show Date"
+msgstr "Показывать дату"
+
+#: languages/seedprod-lite.php:5428
+msgid "Show Time"
+msgstr "Показывать время"
+
+#: languages/seedprod-lite.php:5431
+msgid "Show Comment Count"
+msgstr "Показывать счетчик комментариев"
+
+#: languages/seedprod-lite.php:5452
+msgid "Read More Text"
+msgstr "Текст ссылки «Читать дальше»"
+
+#: app/routes.php:71 app/routes.php:72 languages/seedprod-lite.php:140
+msgid "Setup"
+msgstr "Настройка"
+
+#: app/functions-addons.php:133
+msgid "Could not activate addon. Please check user permissions."
+msgstr "Не удалось активировать дополнение. Проверьте разрешения пользователя."
+
+#: app/functions-addons.php:157
+msgid "Could not activate addon. Please refresh page and try again."
+msgstr "Не удалось активировать дополнение. Обновите страницу и повторите попытку."
+
+#. Author URI of the plugin
+msgid "https://www.seedprod.com/lite-upgrade/?utm_source=WordPress&utm_campaign=liteplugin&utm_medium=author-uri-link"
+msgstr "https://www.seedprod.com/lite-upgrade/?utm_source=WordPress&utm_campaign=liteplugin&utm_medium=author-uri-link"
+
+#. Plugin URI of the plugin
+msgid "https://www.seedprod.com/lite-upgrade/?utm_source=WordPress&utm_campaign=liteplugin&utm_medium=plugin-uri-link"
+msgstr "https://www.seedprod.com/lite-upgrade/?utm_source=WordPress&utm_campaign=liteplugin&utm_medium=plugin-uri-link"
+
+#: app/edit_with_seedprod.php:235
+msgid "Switch Back to WordPress Editor"
+msgstr "Переключитесь обратно в редактор WordPress"
+
+#: app/theme-templates.php:936
+msgid "This page was auto-generated and is a placeholder page for the SeedProd theme. To manage the contents of this page please visit SeedProd > Theme Builder in the left menu in WordPress. "
+msgstr "Эта страница была создана автоматически и является страницей-заполнителем для темы SeedProd. Чтобы управлять содержимым этой страницы, посетите SeedProd & Theme Builder в левом меню WordPress. "
+
+#: app/routes.php:148 app/routes.php:149 languages/seedprod-lite.php:137
+msgid "Import / Export"
+msgstr "Импорт / Экспорт"
+
+#: app/routes.php:159 app/routes.php:160 languages/seedprod-lite.php:172
+msgid "Upgrade to Pro"
+msgstr "Обновить до версии Pro"
+
+#: app/functions-utils.php:1037
+msgid "Additional Information"
+msgstr "Дополнительная информация"
+
+#: app/functions-utils.php:1097 languages/seedprod-lite.php:4602
+msgid "Archive Products"
+msgstr "Архивные товары"
+
+#. Plugin Name of the plugin
+msgid "Coming Soon Page, Maintenance Mode, Landing Pages & WordPress Website Builder by SeedProd"
+msgstr "Coming Soon Page, Maintenance Mode, Landing Pages & WordPress Website Builder by SeedProd"
+
+#: app/functions-utils.php:943
+msgid "Menu Cart"
+msgstr "Корзина в меню"
+
+#: app/functions-utils.php:1024
+msgid "Short Description"
+msgstr "Краткое описание"
+
+#: app/functions-utils.php:1013
+msgid "Product Content"
+msgstr "Содержимое товара"
+
+#: app/functions-utils.php:1108
+msgid "Product Data Tabs"
+msgstr "Вкладки данных о товаре"
+
+#: app/functions-utils.php:967
+msgid "Product Featured Image"
+msgstr "Главное изображение товара"
+
+#: app/functions-utils.php:979
+msgid "Product Price"
+msgstr "Цена товара"
+
+#: app/functions-utils.php:1085
+msgid "Product Stock"
+msgstr "Товар на складе"
+
+#: app/functions-utils.php:955
+msgid "Product Title"
+msgstr "Заголовок товара"
+
+#: app/functions-utils.php:1048
+msgid "Products Related"
+msgstr "Сопутствующие товары"
+
+#: app/functions-utils.php:1072
+msgid "Product Rating"
+msgstr "Оценки товара"
+
+#: app/functions-utils.php:1002
+msgid "Product Meta"
+msgstr "Метаданные товара"
+
+#: app/functions-utils.php:1060
+msgid "Upsells"
+msgstr "Дополнительные продажи"
+
+#: app/functions-utils.php:786
+msgid "Post Title"
+msgstr "Заголовок записи"
+
+#: app/functions-utils.php:798
+msgid "Post Content"
+msgstr "Содержимое записи"
+
+#: app/functions-utils.php:810
+msgid "Post Excerpt"
+msgstr "Отрывок записи"
+
+#: app/functions-utils.php:834
+msgid "Author Box"
+msgstr "Блок автора"
+
+#: app/functions-utils.php:871
+msgid "Post Navigation"
+msgstr "Навигация по записям"
+
+#: app/functions-utils.php:884
+msgid "Post Info"
+msgstr "Информация о записи"
+
+#: app/functions-utils.php:918
+msgid "Site Logo"
+msgstr "Логотип сайта"
+
+#: app/functions-utils.php:931 app/functions-utils.php:1325
+msgid "Template Parts"
+msgstr "Части шаблона"
+
+#: app/routes.php:62 app/routes.php:63 app/routes.php:216 app/routes.php:217
+#: languages/seedprod-lite.php:134
+msgid "Theme Builder"
+msgstr "Конструктор тем"
+
+#: app/theme-templates.php:587
+msgid "Global CSS"
+msgstr "Глобальный CSS"
+
+#: app/theme-templates.php:665
+msgid "You're using the <a href=\"%s\">SeedProd</a> Theme to build your web site, which disables the WordPress theme system."
+msgstr "Вы используете для создания своего сайта тему <a href=\"%s\">SeedProd</a>, которая отключает систему тем WordPress."
+
+#: app/admin-bar-menu.php:53
+msgid "Theme Preview Mode Active"
+msgstr "Режим предварительного просмотра темы активен"
+
+#: app/functions-utils.php:492
+msgid "Search Form"
+msgstr "Форма поиска"
+
+#: app/routes.php:54 languages/seedprod-lite.php:267
+msgid "Landing Pages"
+msgstr "Лендинги"
+
+#: app/functions-utils.php:748 app/functions-utils.php:759
+msgid "Posts"
+msgstr "Публикации"
+
+#: app/functions-utils.php:822
+msgid "Featured Image"
+msgstr "Основное изображение"
+
+#: app/functions-utils.php:859
+msgid "Post Comments"
+msgstr "Комментарии к записи"
+
+#: app/functions-utils.php:896
+msgid "Archive Title"
+msgstr "Заголовок архива"
+
+#: app/functions-utils.php:553
+msgid "X (Twitter) Embed Tweet"
+msgstr "X (Twitter) Встроенный твит"
+
+#: app/functions-utils.php:565
+msgid "X (Twitter) Embed Timeline"
+msgstr "X (Twitter) Встроенная хроника"
+
+#: app/functions-utils.php:577
+msgid "X (Twitter) Tweet Button"
+msgstr "X (Twitter) Кнопка «Твитнуть»"
+
+#: app/functions-utils.php:589
+msgid "X (Twitter) Follow Button"
+msgstr "X (Twitter) Кнопка «Подписаться»"
+
+#: app/functions-utils.php:528
+msgid "Facebook Page"
+msgstr "Страница Facebook"
+
+#: app/functions-utils.php:339
+msgid "Image Carousel"
+msgstr "Карусель изображений"
+
+#: app/functions-utils.php:301
+msgid "Animated Headline"
+msgstr "Анимированный заголовок"
+
+#: app/functions-utils.php:540
+msgid "Facebook Embed"
+msgstr "Встраивание в Facebook"
+
+#: app/functions-utils.php:405
+msgid "Pricing Table"
+msgstr "Таблица с ценами"
+
+#: app/functions-utils.php:502
+msgid "Facebook Like"
+msgstr "Лайк в Facebook"
+
+#: app/functions-utils.php:516
+msgid "Facebook Comments"
+msgstr "Комментарии в Facebook"
+
+#: app/functions-utils.php:482 languages/seedprod-lite.php:4665
+msgid "Google Maps"
+msgstr "Карты Google"
+
+#: app/functions-utils.php:454 languages/seedprod-lite.php:1076
+msgid "Accordion"
+msgstr "Аккордеон"
+
+#: app/functions-utils.php:673 app/functions-utils.php:1177
+#: languages/seedprod-lite.php:4012
+msgid "Cart"
+msgstr "Корзина"
+
+#: app/functions-utils.php:729 languages/seedprod-lite.php:4331
+msgid "Featured Products"
+msgstr "Рекомендуемые товары"
+
+#: app/functions-utils.php:329 languages/seedprod-lite.php:6340
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#: app/settings.php:130
+msgid "App Settings Updated"
+msgstr "Обновлены настройки приложения"
+
+#: app/functions-utils.php:661 app/functions-utils.php:1189
+msgid "Checkout"
+msgstr "Оформление заказа"
+
+#: app/settings.php:136
+msgid "Error Updating App Settings"
+msgstr "Ошибка обновления настроек приложения"
+
+#: app/routes.php:138 app/routes.php:139
+msgid "Request a Feature"
+msgstr "Запросить функцию"
+
+#: app/functions-utils.php:686
+msgid "Products Grid"
+msgstr "Сетка товаров"
+
+#: app/functions-utils.php:720 languages/seedprod-lite.php:4339
+msgid "Best Selling Products"
+msgstr "Самые продаваемые товары"
+
+#: app/functions-utils.php:651 app/functions-utils.php:991
+msgid "Add To Cart"
+msgstr "Добавить в корзину"
+
+#: app/functions-utils.php:698 languages/seedprod-lite.php:4343
+msgid "Recent Products"
+msgstr "Последние товары"
+
+#: app/functions-utils.php:709 languages/seedprod-lite.php:4335
+msgid "Sale Products"
+msgstr "Товары со скидками"
+
+#: app/functions-utils.php:738 languages/seedprod-lite.php:4347
+msgid "Top Rated Products"
+msgstr "Товары с высокой оценкой"
+
+#: app/functions-utils.php:472
+msgid "Login Form"
+msgstr "Форма входа"
+
+#: resources/views/debug.php:27
+msgid "Debug Tools"
+msgstr "Инструменты отладки"
+
+#: app/functions-utils.php:463 languages/seedprod-lite.php:6119
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: app/routes.php:207 app/routes.php:208
+msgid "Debug"
+msgstr "Отладка"
+
+#: app/settings.php:72
+msgid "Error Updating Settings"
+msgstr "Ошибка обновления настроек"
+
+#: app/settings.php:67
+msgid "Settings Updated"
+msgstr "Настройки обновлены"
+
+#: app/functions-addons.php:147
+msgid "Plugin activated."
+msgstr "Плагин активирован."
+
+#: app/lpage.php:865
+msgid "Ended"
+msgstr "Завершен"
+
+#: app/lpage.php:863
+msgid "Starts in"
+msgstr "Начинается в"
+
+#: app/lpage.php:203 app/lpage.php:205 app/setup-wizard.php:197
+#: app/setup-wizard.php:199
+msgid "New Page"
+msgstr "Новая страница"
+
+#: app/license.php:159
+msgid "Invalid License Key."
+msgstr "Неверный лицензионный ключ."
+
+#: app/license.php:91
+msgid "License Key is Required."
+msgstr "Требуется лицензионный ключ."
+
+#: app/license.php:17
+msgid "Upgrade PHP"
+msgstr "Обновите PHP"
+
+#: app/edit_with_seedprod.php:234 app/edit_with_seedprod.php:376
+msgid "Edit with SeedProd"
+msgstr "Редактировать в SeedProd"
+
+#: app/functions-utils.php:436 languages/seedprod-lite.php:2585
+msgid "Anchor"
+msgstr "Якорь"
+
+#: app/routes.php:189 app/routes.php:190
+msgid "Builder"
+msgstr "Конструктор"
+
+#: app/functions-utils.php:162 languages/seedprod-lite.php:1834
+msgid "Button"
+msgstr "Кнопка"
+
+#: app/functions-utils.php:153 languages/seedprod-lite.php:3157
+msgid "List"
+msgstr "Список"
+
+#: app/class-seedprod-review.php:110
+msgid "No thanks"
+msgstr "Нет, спасибо"
+
+#: app/functions-utils.php:271
+msgid "Social Profiles"
+msgstr "Профили соцсетей"
+
+#: app/functions-utils.php:195 languages/seedprod-lite.php:6213
+msgid "Spacer"
+msgstr "Интервал"
+
+#: app/functions-utils.php:178 languages/seedprod-lite.php:6386
+msgid "Video"
+msgstr "Видео"
+
+#: app/functions-addons.php:149
+msgid "Addon activated."
+msgstr "Дополнение активировано."
+
+#: app/functions-utils.php:54
+msgid "Anyone Logged In"
+msgstr "Все, кто вошел в систему"
+
+#: app/functions-utils.php:115 languages/seedprod-lite.php:3366
+msgid "Column"
+msgstr "Столбец"
+
+#: app/functions-utils.php:225 languages/seedprod-lite.php:3433
+msgid "Contact Form"
+msgstr "Контактная форма"
+
+#: app/functions-utils.php:262
+msgid "Countdown"
+msgstr "Обратный отсчет"
+
+#: app/functions-utils.php:186 languages/seedprod-lite.php:3231
+msgid "Divider"
+msgstr "Разделитель"
+
+#: app/routes.php:120 app/routes.php:121 languages/seedprod-lite.php:98
+msgid "Growth Tools"
+msgstr "Инструменты роста"
+
+#: app/functions-utils.php:170 languages/seedprod-lite.php:2984
+msgid "Image"
+msgstr "Изображение"
+
+#: app/functions-utils.php:352
+msgid "Image Box"
+msgstr "Блок с изображением"
+
+#: app/functions-utils.php:375
+msgid "Icon Box"
+msgstr "Блок со значком"
+
+#: app/functions-utils.php:385
+msgid "Nav Menu"
+msgstr "Меню навигации"
+
+#: app/functions-utils.php:1366
+msgid "Select Time"
+msgstr "Выбрать время"
+
+#: app/functions-utils.php:52
+msgid "SuperAdmin"
+msgstr "Администратор"
+
+#. translators: 1. License name.
+#: app/license.php:154 languages/seedprod-lite.php:600
+msgid "You currently have the <strong>%s</strong> license."
+msgstr "В настоящее время у вас есть лицензия <strong>%s</strong>."
+
+#: app/class-seedprod-review.php:107
+msgid "We're sorry to hear you aren't enjoying SeedProd. We would love a chance to improve. Could you take a minute and let us know what we can do better?"
+msgstr "Очень жаль, что SeedProd вам не понравился. Мы прикладываем все усилия, чтобы сделать наш плагин еще лучше, и ваше мнение очень ценно для нас. Пожалуйста, уделите минутку и сообщите нам, что стоит исправить."
+
+#: app/class-seedprod-review.php:115
+msgid "~ John Turner<br>Co-Founder of SeedProd"
+msgstr "~ Джон Тернер,<br>соучредитель SeedProd"
+
+#: app/license.php:17
+msgid "The minimum required version of PHP to run this plugin is PHP Version 5.3.3. Please contact your hosting company and ask them to upgrade this site's php verison."
+msgstr "Минимальная версия PHP, необходимая для работы этого плагина, — PHP версии 5.3.3. Пожалуйста, свяжитесь с вашим провайдером хостинга и попросите его обновить версию php для этого сайта."
+
+#: app/lpage.php:1026 app/theme-templates.php:809
+msgid "<br><br>Please enter a valid license key to access the themes. You can still proceed to create a page with the default theme.<br> <a class='seedprod_no_themes' href='?theme=0'>Click to continue &#8594;</a>"
+msgstr "<br><br> Для доступа к темам введите действующий лицензионный ключ. Вы также можете продолжить создание страницы с темой по умолчанию.<br> <a class='seedprod_no_themes' href='?theme=0'>Нажмите, чтобы продолжить&#8594;</a>"
+
+#: app/class-seedprod-review.php:109
+msgid "Give Feedback"
+msgstr "Дать обратную связь"
+
+#: app/class-seedprod-review.php:114
+msgid "That’s awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "Это потрясающе! Не могли бы вы оказать услугу и дать плагину 5-звезд на WordPress, чтобы помочь нам распространить информацию и повысить нашу мотивацию?"
+
+#: app/functions-addons.php:154
+msgid "Could not activate addon. Please activate from the Plugins page."
+msgstr "Не удалось активировать дополнение. Активируйте его на странице Плагины."
+
+#: app/routes.php:129 app/routes.php:130 languages/seedprod-lite.php:50
+msgid "About Us"
+msgstr "О нас"
+
+#: app/functions-addons.php:115
+msgid "Addon deactivated."
+msgstr "Дополнение деактивировано."
+
+#: app/routes.php:198 app/routes.php:199
+msgid "Import/Export"
+msgstr "Импорт/экспорт"
+
+#: app/functions-utils.php:244
+msgid "Optin Form"
+msgstr "Подписка на рассылку"
+
+#: app/functions-utils.php:311 languages/seedprod-lite.php:5903
+msgid "Progress Bar"
+msgstr "Индикатор выполнения"
+
+#: app/functions-addons.php:113
+msgid "Plugin deactivated."
+msgstr "Плагин деактивирован."
+
+#: app/functions-addons.php:119
+msgid "Could not deactivate the addon. Please deactivate from the Plugins page."
+msgstr "Не удалось деактивировать дополнение. Деактивируйте его на странице Плагины."
+
+#: app/functions-addons.php:216 app/functions-addons.php:285
+#: languages/seedprod-lite.php:244
+msgid "Inactive"
+msgstr "Неактивный"
+
+#: app/functions-utils.php:280 languages/seedprod-lite.php:6207
+msgid "Social Sharing"
+msgstr "Поделиться в соцсетях"
+
+#: app/functions-utils.php:320 languages/seedprod-lite.php:1268
+msgid "Icon"
+msgstr "Иконка"
+
+#: app/functions-utils.php:445 languages/seedprod-lite.php:6216
+msgid "Star Rating"
+msgstr "Оценка"
+
+#: languages/seedprod-lite.php:95
+msgid "Pages"
+msgstr "Страниц"
+
+#: app/includes/upgrade.php:121 app/includes/upgrade.php:127
+#: app/includes/upgrade.php:178
+msgid "Plugin installed & activated."
+msgstr "Плагин установлен и активирован."
+
+#: app/includes/upgrade.php:11
+msgid "You are not allowed to install plugins."
+msgstr "У вас недостаточно прав для установки плагинов."
+
+#: app/includes/upgrade.php:24 app/includes/upgrade.php:158
+msgid "You are not licensed."
+msgstr "У вас нет лицензии."
+
+#: app/class-seedprod-review.php:100
+msgid "Are you enjoying SeedProd?"
+msgstr "Вам нравится SeedProd?"
+
+#: languages/seedprod-lite.php:345
+msgid "Name"
+msgstr "Имя"
+
+#: app/render-csp-mm.php:283
+msgid "Please create your Coming Soon Page in the plugin settings."
+msgstr "Создайте свою страницу Coming Soon Page в настройках плагина."
+
+#: resources/views/debug.php:1
+msgid "System Information"
+msgstr "Системная информация"
+
+#: app/render-csp-mm.php:266
+msgid "Please create your Maintenance Page in the plugin settings."
+msgstr "Создайте свою Страницу техобслуживания в настройках плагина."
+
+#: app/render-csp-mm.php:278
+msgid "Please create enter your redirect url in the plugin settings."
+msgstr "Введите свой URL-адрес для переадресации в настройках плагина."
+
+#: app/class-seedprod-review.php:103
+msgid "Not Really"
+msgstr "Не совсем"
+
+#: app/includes/upgrade.php:89
+msgid "Could not install upgrade. Please download from seedprod.com and install manually."
+msgstr "Не удалось установить обновление. Выполните загрузку с сайта seedprod.com и установите обновление вручную."
+
+#: app/includes/upgrade.php:182
+msgid "Pro version installed but needs to be activated from the Plugins page inside your WordPress admin."
+msgstr "Версия Pro установлена, но ее необходимо активировать на странице Плагины в админке WordPress."
+
+#: app/includes/upgrade.php:43
+msgid "Pro version is already installed."
+msgstr "Pro-версия уже установлена."
+
+#: languages/seedprod-lite.php:561
+msgid "Emails"
+msgstr "Письма"
+
+#: app/includes/skin.php:82 app/includes/skin53.php:82
+msgid "There was an error installing the addon. Please try again."
+msgstr "Произошла ошибка при установке дополнения. Попробуйте еще раз."
+
+#: app/functions-utils.php:214 languages/seedprod-lite.php:4649
+msgid "Giveaway"
+msgstr "Рекламная лотерея"
+
+#: languages/seedprod-lite.php:484
+msgid "Install"
+msgstr "Установить"
+
+#: languages/seedprod-lite.php:2515
+msgid "Type"
+msgstr "Тип"
+
+#: languages/seedprod-lite.php:492
+msgid "Activate"
+msgstr "Активировать"
+
+#: languages/seedprod-lite.php:567
+msgid "License"
+msgstr "Лицензия"
+
+#: app/functions-addons.php:222 app/functions-addons.php:291
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: app/functions-addons.php:211 app/functions-addons.php:280
+#: languages/seedprod-lite.php:241
+msgid "Active"
+msgstr "Активна"
+
+#: languages/seedprod-lite.php:582
+msgid "License Key"
+msgstr "Лицензионный ключ"
+
+#: languages/seedprod-lite.php:5117
+msgid "Required"
+msgstr "Обязательное поле"
+
+#: app/routes.php:111 app/routes.php:112 languages/seedprod-lite.php:121
+msgid "Settings"
+msgstr "Настройки"
+
+#: app/routes.php:91 app/routes.php:92 app/subscriber.php:69
+#: languages/seedprod-lite.php:103
+msgid "Subscribers"
+msgstr "Подписчики"
+
+#: languages/seedprod-lite.php:2203
+msgid "Hover"
+msgstr "Наведение"
+
+#: languages/seedprod-lite.php:2932
+msgid "Contain"
+msgstr "Вмещение"
+
+#. translators: 1: wordpress.org coming-soon plugin review, 2: wordpress.org
+#. coming-soon plugin review
+#: app/bootstrap.php:562
+msgid "Please rate <strong>SeedProd</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the SeedProd team!"
+msgstr "Поставьте оценку <strong>SeedProd</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> на <a href=\"%2$s\" target=\"_blank\">WordPress.org</a>, чтобы помочь нам в дальнейшем продвижении. Команда SeedProd будет вам благодарна!"
+
+#: app/class-seedprod-review.php:117
+msgid "Ok, you deserve it"
+msgstr "Хорошо, вы это заслужили"
+
+#: app/class-seedprod-review.php:118
+msgid "Nope, maybe later"
+msgstr "Нет, может позже"
+
+#: app/class-seedprod-review.php:119
+msgid "I already did"
+msgstr "Я уже это сделал"
+
+#: app/functions-utils.php:234
+msgid "Custom HTML"
+msgstr "Произвольный HTML"
+
+#: languages/seedprod-lite.php:2957
+msgid "Dim Background"
+msgstr "Приглушенный фон"
+
+#: languages/seedprod-lite.php:1370
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: languages/seedprod-lite.php:496
+msgid "Status"
+msgstr "Статус"
+
+#: languages/seedprod-lite.php:3604
+msgid "Message"
+msgstr "Сообщение"
+
+#: languages/seedprod-lite.php:2881
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: languages/seedprod-lite.php:3273
+msgid "Background"
+msgstr "Фон"
+
+#: app/routes.php:180 app/routes.php:181 languages/seedprod-lite.php:1971
+msgid "Templates"
+msgstr "Шаблоны"
+
+#: app/functions-utils.php:133 languages/seedprod-lite.php:4680
+msgid "Headline"
+msgstr "Заголовок"
+
+#: app/class-seedprod-review.php:102 languages/seedprod-lite.php:647
+msgid "Yes"
+msgstr "Да"
+
+#: app/backwards/csp4-functions.php:10
+msgid "Please enter your settings."
+msgstr "Введите свои настройки."
+
+#. Author of the plugin
+#: app/routes.php:53
+msgid "SeedProd"
+msgstr "SeedProd"
+
+#: app/admin-bar-menu.php:49
+msgid "Coming Soon Mode Active"
+msgstr "Активирован режим «Скоро открытие»"
+
+#: app/admin-bar-menu.php:51
+msgid "Maintenance Mode Active"
+msgstr "Активирован режим «На обслуживании»"
+
+#: languages/seedprod-lite.php:3513
+msgid "Heading 2 Color"
+msgstr "Цвет заголовка 2"
+
+#: languages/seedprod-lite.php:4177
+msgid "Links Color"
+msgstr "Цвет ссылок"
+
+#: languages/seedprod-lite.php:1216
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: languages/seedprod-lite.php:2903
+msgid "Scroll"
+msgstr "Прокрутка"
+
+#: languages/seedprod-lite.php:7276
+msgid "Scripts"
+msgstr "Скрипты"
+
+#: languages/seedprod-lite.php:7279
+msgid "Header Scripts:"
+msgstr "Скрипты заголовка:"
+
+#: languages/seedprod-lite.php:614
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: languages/seedprod-lite.php:2913
+msgid "No-repeat"
+msgstr "Без повтора"
+
+#: languages/seedprod-lite.php:3993
+msgid "Headers"
+msgstr "Заголовки"
+
+#: languages/seedprod-lite.php:7020
+msgid "By default we exclude urls with the terms: login, admin, dashboard and account to prevent lockouts."
+msgstr "По умолчанию мы исключаем URL с терминами «login», «admin», «dashboard» и «account» во избежание блокировок."
+
+#: languages/seedprod-lite.php:7178
+msgid "\"Powered by SeedProd\""
+msgstr "«При поддержке SeedProd»"
+
+#: languages/seedprod-lite.php:7285
+msgid "Footer Scripts:"
+msgstr "Скрипты футера:"
+
+#: languages/seedprod-lite.php:1003
+msgid "Content"
+msgstr "Содержимое"
+
+#: languages/seedprod-lite.php:7300
+msgid "Design"
+msgstr "Дизайн"
+
+#: app/functions-utils.php:145 languages/seedprod-lite.php:1252
+msgid "Text"
+msgstr "Текстовое поле"
+
+#: languages/seedprod-lite.php:558
+msgid "General"
+msgstr "Основные"
+
+#: languages/seedprod-lite.php:1073
+msgid "Advanced"
+msgstr "Дополнительно"
+
+#: languages/seedprod-lite.php:2299
+msgid "Center Center"
+msgstr "В центре"
+
+#: languages/seedprod-lite.php:2857
+msgid "Background Position"
+msgstr "Положение фона"
+
+#: languages/seedprod-lite.php:2907
+msgid "Fixed"
+msgstr "Исправлено"
+
+#: languages/seedprod-lite.php:6762
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+#: languages/seedprod-lite.php:3582
+msgid "End Date"
+msgstr "Конечная дата"
